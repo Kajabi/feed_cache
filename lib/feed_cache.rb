@@ -1,6 +1,3 @@
-require 'ostruct'
-require 'forwardable'
-
 module FeedCache
   DEFAULT_ENTRIES_LIMIT = 10
   DEFAULT_EXPIRES_IN = 900

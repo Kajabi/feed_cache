@@ -1,3 +1,4 @@
+require 'forwardable'
 require 'feedzirra'
 
 module FeedCache
