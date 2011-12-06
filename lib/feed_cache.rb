@@ -29,7 +29,7 @@ module FeedCache
   def self.entries_for(url, options = {})
     limit = options.delete(:limit) || default_entries_limit
     feed = fetch(url, options)
-    (feed ? feed.entries : []).slice(0, limit)
+    (feed ? feed.entries : []).take(limit)
   end
 end
 
