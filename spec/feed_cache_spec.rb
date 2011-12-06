@@ -47,6 +47,11 @@ describe FeedCache do
       it "takes a limit option to trucate entries" do
         FeedCache.entries_for(blog_url, :limit => 3).length.should == 3
       end
+
+      it "respects the default entries limit setting" do
+        FeedCache.default_entries_limit = 7
+        FeedCache.entries_for(blog_url).length.should == 7
+      end
     end
 
     context "for an invalid feed grab" do
