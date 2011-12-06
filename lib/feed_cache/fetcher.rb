@@ -3,8 +3,6 @@ require 'feedzirra'
 
 module FeedCache
   class Fetcher
-    DEFAULT_EXPIRES_IN = 900
-
     extend Forwardable
 
     attr_reader :url, :options
