@@ -1,0 +1,1416 @@
+--- !ruby/object:Feedzirra::Parser::RSS 
+entries: 
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/2-new-features-to-increase-customer-engagemen
+    "@_rails_html_safe": false
+  published: 2011-10-10 22:47:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><span style=\"font-size: medium;\">Kajabi membership sites have always been optimized for engaging community experiences. Now we're adding two more features to increase your customers' social activity: <strong>comment notifications &amp;&nbsp;</strong></span><span style=\"font-size: medium;\"><strong>private messaging </strong>(<span style=\"color: #ff0000;\"><strong><span style=\"text-decoration: underline;\">UPDATE</span>:</strong></span> both of these features are live!).</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><strong><span style=\"font-size: x-large;\">Comment Notifications</span></strong></p>\n\
+      <p><span style=\"font-size: medium;\">It often happens that your users will post a comment on one of your trainings, and want to be notified as soon as you respond to that comment. They don't want to have to keep checking back to see if you replied.</span></p>\n\
+      <p><span style=\"font-size: medium;\">You might also have instances where one user will reply to another user's comment, whether to answer them, or to follow up with another question. Everyone involved in the conversation should be kept in the loop if the dialogue continues.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\">That's where the new comment notification feature comes in. Just activate it for your site (under your project's settings), and your users can choose if they want to receive comment notifications on posts that they comment on. If so, they'll receive notifications by email every time someone replies to a comment thread that either they've started or are participating in. They'll never have to miss the important conversations again.</span></p>\n\
+      <p><span style=\"font-size: medium;\">Check out how it works:</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/azrSmzbx-Xc?rel=0\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">Private Messaging</span></strong></p>\n\
+      <p><span style=\"font-size: medium;\">Anytime one of your users browses another user's profile, they'll have the option to message that user. Their message will be sent instantly and privately. </span></p>\n\
+      <p><span style=\"font-size: medium;\">You can activate this feature inside your project's settings, and your users can choose if they want to receive private messages. They can also be notified by email if they have a new private message waiting for them. Most importantly, they can block any specific user from contacting them (a.k.a. \"the creeper feature\").&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\">See it in action:</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/O99GGcB54Dw?rel=0\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p><span style=\"font-size: small;\"><br /></span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Tell us what you think of the new features below...</strong></span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/2-new-features-to-increase-customer-engagemen\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/2-new-features-to-increase-customer-engagemen#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: 2 New Features To Increase Customer Engagement
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/2-new-features-to-increase-customer-engagemen
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/what-is-a-reverse-squeeze-page
+    "@_rails_html_safe": false
+  published: 2011-09-28 22:34:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><span style=\"font-size: medium;\">Have you ever heard of a reverse squeeze page? It&rsquo;s one of the latest methods in squeeze page conversion. While it may sound a little confusing, the idea is really quite simple &ndash; offer whatever you were planning to bribe your visitor with before asking for their information. We&rsquo;ll continue to explain how and why it works, but what you should know is that you can execute this strategy in several ways, quickly and easily, using Kajabi.</span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>The Traditional Squeeze Page</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">The traditional squeeze page consists of a catchy headline, enticing copy, and a teaser video or picture (if the marketer is good). These elements tell the visitor what they&rsquo;ll receive on the other side, after they optin (with a name and/or email address) for more information. It also gives reasons why the visitor would want this content, and establishes credibility at the same time.</span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>The Reverse Squeeze Page</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">With a reverse squeeze page, you give your best content up front. Visitors can consume your ideas without being required to give up anything. You still have all the same elements of a regular squeeze page, plus the content you would have normally given after the optin. If your visitor wants to opt in for similar content to what you present, they have the choice of doing so. This reversing of the traditional squeeze page&rsquo;s core objective is how the &ldquo;reverse squeeze page&rdquo; gets its name.</span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>Moving The Free Line</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">With the traditional squeeze page format becoming worn out in some circles as customers wise up to marketing tactics, this movement has been popularized by marketers like Eben Pagan, who often preaches &ldquo;moving the free line&rdquo;. Right off the bat, you can see the theoretical beneft of employing this approach to your marketing funnel: higher quality subscribers.</span></p>\n\
+      <p><span style=\"font-size: medium;\">When you offer your incentive from the get go without requiring your visitor to subscribe, those that do decide to opt in have pre-qualified themselves for you. They can be considered highly motivated prospects because they willingly signed up for more from you even after being exposed to what you have to offer.</span></p>\n\
+      <p><span style=\"font-size: medium;\">Building your list this way increases the number of people on your list who are actually interested in you and your material. It will help you avoid the subscribers who are just kicking the tires and hoping to get a free gift. These are the types who never open your emails, or just unsubscribe right after receiving what they opted in for.</span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>The Result: Better Leads?</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">The jury is still out on if this means less subscribers in the end. The number of subscribers will vary based on the quality of the free content offered by those using this model. In other words, if you're all hype and your content sucks, this may not be the method for you (stick with a traditional squeeze page). ;)</span></p>\n\
+      <p><span style=\"font-size: medium;\">On the other hand, some theorize this model results in more sales. The belief is that when you give more value in the beginning (without asking for anything back), you start the business relationship off right, and reap the benefits in the end.</span></p>\n\
+      <p><span style=\"font-size: medium;\">You&rsquo;ll have to test and see what works for you. One thing that seems certain though, is that the quality of your list will be higher when using a reverse squeeze page. It makes sense, as readers are being automatically pre-qualified before they receive any further marketing messages from you.</span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">Reverse Squeeze Page Examples</span></strong></p>\n\
+      <p><span style=\"font-size: medium;\">Here are some reverse squeeze page examples and how to create them easily in Kajabi:</span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: large;\">Version #1: Limited Value Page Access</span></strong></p>\n\
+      <p><span style=\"font-size: medium;\">In this version of the reverse squeeze, you lead your visitor through two or more valuable pieces of training, but when they try to access or play the 3rd (or next) piece, they are asked to optin to continue their training.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Demo:</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\"><a href=\"http://reversesqueezepage.kajabi.com/fe/16099-secret-1\" target=\"_blank\">http://reversesqueezepage.kajabi.com/fe/16099-secret-1</a></span></p>\n\
+      <p><span style=\"font-size: medium;\"><a href=\"http://reversesqueezepage.kajabi.com/fe/16140-secret-1\" target=\"_blank\">http://reversesqueezepage.kajabi.com/fe/16140-secret-1</a></span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Video Walkthrough:</strong></span></p>\n\
+      <p style=\"text-align: center;\"><iframe src=\"http://www.youtube.com/embed/COTSDg-iADg?rel=0\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: large;\"><strong>Version #2: Value Page With Optin</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">In this version of the reverse squeeze page, you give a valuable piece of training away with an optin form at the bottom of the page.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Demo:</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\"><a href=\"http://reversesqueezepage.kajabi.com/fe/16096-secret-1\" target=\"_blank\">http://reversesqueezepage.kajabi.com/fe/16096-secret-1</a></span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Video Walkthrough:</strong></span></p>\n\
+      <p style=\"text-align: center;\"><iframe src=\"http://www.youtube.com/embed/RkWeTOT5zBo?rel=0\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: large;\"><strong>Version #3: Closed Value Funnel</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">In this version of the reverse squeeze, you lead your visitor through a value funnel with an optin form at the bottom of the last page.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Demo:</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\"><a href=\"http://reversesqueezepage.kajabi.com/fe/16069-secret-1\" target=\"_blank\">http://reversesqueezepage.kajabi.com/fe/16069-secret-1</a></span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Video Walkthrough:</strong></span></p>\n\
+      <p style=\"text-align: center;\"><iframe src=\"http://www.youtube.com/embed/H-wdyvQh6gU?rel=0\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: large;\"><strong>Version #4: Open Value Funnel</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">In this version of the reverse squeeze, every page of your value funnel is accessible and has an optin form at the bottom of it.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Demo:</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\"><a href=\"http://reversesqueezepage.kajabi.com/fe/16075-secret-1\" target=\"_blank\">http://reversesqueezepage.kajabi.com/fe/16075-secret-1</a></span></p>\n\
+      <p><span style=\"font-size: medium;\"><a href=\"http://www.linkliberation2.com/fe/10475-knowledge-is-power\" target=\"_blank\">http://www.linkliberation2.com/fe/10475-knowledge-is-power</a></span></p>\n\
+      <p><span style=\"font-size: medium;\"><a href=\"http://linkliberation2.com\" target=\"_blank\"></a></span><span style=\"font-size: medium;\"><strong>Video Walkthrough:</strong></span></p>\n\
+      <p style=\"text-align: center;\"><iframe src=\"http://www.youtube.com/embed/KKL5Ad5H2H0?rel=0\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Let us know what you think about reverse squeeze pages below...</strong></span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/what-is-a-reverse-squeeze-page\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/what-is-a-reverse-squeeze-page#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: What Is A Reverse Squeeze Page?
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/what-is-a-reverse-squeeze-page
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/kajabi-product-update-september-edition
+    "@_rails_html_safe": false
+  published: 2011-09-17 02:01:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><span style=\"font-size: medium;\">We have septupled the number of Kajabi squeeze page themes! &nbsp;That's right, you now have <strong>42 brand-new beautiful squeeze page themes</strong> to choose from. </span></p>\n\
+      <p><span style=\"font-size: medium;\">You'll also find a slew of other awesome features available to you right now. Here's Travis to give you the rundown:</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/zrJtQGcU6zE\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">New features:</span></strong></p>\n\
+      <p><strong><span style=\"font-size: medium;\">Squeeze page themes</span></strong></p>\n\
+      <p><span style=\"font-size: medium;\">Inside your squeeze page editor, you'll notice a section for templates and a section for themes.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\">Templates correspond to the location of all the elements of your squeeze page: the header, the headlines, the content, the media, and the optin box.</span></p>\n\
+      <p><span style=\"font-size: medium;\">Themes, on the other hand, refer to the look and feel of the squeeze page. So, each theme will have its own color scheme and custom images,&nbsp;but again, the placement of each section of your squeeze page is going to be determined by the template.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\">All you have to do is choose a template, choose a theme, update your squeeze page, and then check out how your new squeeze page looks.</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/0jB13wNsX-I\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Name Capture</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">You can now turn on or off capturing names in your squeeze pages. In your squeeze page editor, just scroll down to where it says, \"collect their name\" and check the box. You may want to consider <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition#more\" target=\"_blank\">split testing</a> this - one version without the name capture, and one with.&nbsp;</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/sTGoT4O8U-g\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Custom Header Image</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">When previewing your squeeze page, you'll notice the option of adding a custom header image. It's no problem if you choose not to, as your squeeze page can be shown with or without a custom header image.</span>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">If you did want to add your own customized header, just go to the section in the editor titled, \"<em>Choose a Custom Header Image</em>\", upload your image, and you're all set.</span></p>\n\
+      <p><span style=\"font-size: medium;\">* <em>Design Tip: On your custom header image, as well as your portal header, we recommend you use a transparent PNG file. It will blend in nicely with your squeeze page or membership portal.</em></span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/gMtytbmBNQc\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>More Bulletpoint Types</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">You'll see a bunch of new bulletpoint types in the editor now. Just click the icon with a picture of a checkbox on it and you'll see all the new types you can choose from. Click the icon again to choose another type if you like. Easy as cake.</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/8pQvEqDyb4M\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>More Buttons &amp; Thumbnails</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">We've added several more submit buttons and teaser thumbnails to give you more options for persuading your visitors to optin to your content. Just scroll down to where it says \"<em>Change Button</em>\" and \"<em>Add Thumbnail</em>\" in your squeeze page editor and take care of your business. Simple as that.</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/ECvH-Bp6j0M\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>New Layouts</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">Give your text some pizazz!&nbsp;You have even more choices now on the way you lay out your content. Try the new content layout templates anywhere you edit content in Kajabi.</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/Gmqa36nl8AY\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>New Dividers</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">We've added many more dividers for you to select from. Use them to create stylish spacing and make your copywriting stand out.</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/5LthP-yoQKU\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Add Tables</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">Use tables to arrange your text or images and easily present concepts to your readers. You can use tables for numerous purposes, from displaying a pricing grid, to making an argument with statistics, to comparing features between product A and product B.</span></p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/2WT7NtP1aMs\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Smooth Look on Squeeze Pages</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">You'll notice that the elements on your squeeze pages look even more smooth now. We improved readability, font selection and spacing, and also made some small visual improvements.&nbsp;</span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/september/newsqueeze.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Admin Facelift</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">We polished up the admin a little bit in making sure your experience with us always stays fresh. You'll notice more of these graphical enhancements in the next series of updates as well.</span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/september/adminbeforeafter.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>New Video Player Skin</strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">Krunch (our video encoder) just some new <a href=\"http://www.urbandictionary.com/define.php?term=digs\" target=\"_blank\">digs</a>. Our video player has a sleek new skin to make your videos look even more professional.</span></p>\n\
+      <p><a href=\"http://kajabiflightacademy.com\"><img src=\"http://stevenam.com/kajabi/img/september/videoskin.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></a></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-family: Helvetica Neue, Arial, Helvetica; line-height: 21px; font-size: medium;\">Please let us know anything else you'd like to see at&nbsp;<a href=\"http://feedback.kajabi.com/forums/94971-kajabi-feature-requests\" target=\"_blank\" style=\"color: #628ed1; text-decoration: underline; padding: 0px; margin: 0px;\">feedback.kajabi.com</a>&nbsp;. Tell us what you think of the new features below!</span></p>\n\
+      <p><span style=\"font-family: Helvetica Neue, Arial, Helvetica; line-height: 21px; font-size: medium;\">- The Kajabi Team</span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/kajabi-product-update-september-edition\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/kajabi-product-update-september-edition#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: Kajabi Product Update - September Edition!
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/kajabi-product-update-september-edition
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/a-sneak-peek-at-whats-coming-on-kajabi-73316
+    "@_rails_html_safe": false
+  published: 2011-08-11 17:36:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/a-sneak-peek-at-whats-coming-on-kajabi-73316\"><img alt=\"\" src=\"http://getfile1.posterous.com/getfile/video.posterous.com/temp-2011-08-11/AEiIdyJpiowADpygkHbHIlGvoHwhfvgjljggclcHEGcfiAftueqkrfhlFhHc/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>forumfinal.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/a-sneak-peek-at-whats-coming-on-kajabi-73316\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><span style=\"font-size: medium;\">(<span style=\"color: #ff0000;\"><strong>UPDATE:</strong></span>&nbsp;These features are now LIVE!) We&rsquo;re happy to give you a sneak peek today at Kajabi&rsquo;s new &ldquo;forum&rdquo; feature which is being rolled out to our customers. Different from our current &ldquo;community&rdquo; feature, Kajabi &ldquo;forum&rdquo; gives you and your members a more robust way to communicate.</span></p>\n\
+      <p><span style=\"font-size: medium;\">Before with &ldquo;community&rdquo;, the conversation happened within sections. Now with &ldquo;forum&rdquo;, the conversation takes place within topics nested inside sections. This adds another level of organization to your discussions, so you can easily start and follow dialogue.</span></p>\n\
+      <p><span style=\"font-size: medium;\">Some may still prefer the interaction style of the community feature, as you can follow everything being said on a subject in one simple thread. Either way, Kajabi gives you options. You can choose to use &ldquo;forum&rdquo; instead of &ldquo;community&rdquo;, vice versa, or both at the same time.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p style=\"text-align: left;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: underline;\"><span style=\"font-size: x-large;\"><strong><span style=\"text-decoration: underline;\">Here's how to use Kajabi &ldquo;forum&rdquo;</span></strong></span>:</span></span></p>\n\
+      <p><span style=\"font-size: medium;\">The first thing you want to do is enable Forum in your account. You can do that inside your project&rsquo;s settings.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/1settings.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">Scroll down to where it says, &ldquo;Enable a forum in your account&rdquo;, and make sure the box is checked.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/2enable.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">Then, add a name and description for your &ldquo;forum&rdquo; area.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/3name.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">&ldquo;Forum&rdquo; does not replace &ldquo;community&rdquo;, so you'll have to enable &ldquo;forum&rdquo; for it to work. &nbsp;You can use both &ldquo;forum&rdquo; and &ldquo;community&rdquo; at the same time.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/4notreplace.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">To edit your &ldquo;forum&rdquo; settings, click on the &ldquo;Forum&rdquo; tab.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/5forumtab.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">If you want to add a new section, just click \"Add a Forum Section\". Put in the section&rsquo;s name and description, and then choose which membership level(s) can view the section.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/6addsection.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/6baddsection.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">In a Kajabi forum, you can see how many topics are active, how many comments each section contains, and an overview of the recent activity happening inside.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/7forummain.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">If you want to add a topic to a section, go to any section and click on &ldquo;+ Add Topic&rdquo;.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/8addtopic.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">To respond to any comment in a thread, click on &ldquo;Reply&rdquo; next to any comment inside that thread.&nbsp;</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/9reply.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">Right inside a section, you also have the ability approve or unapprove any topic. To have any topic displayed at the top of its section, click &ldquo;Set Sticky&rdquo; on that topic.</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/forum/10approvesticky.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\">So get ready to take advantage of just another way to keep the discussion moving with Kajabi&rsquo;s new &ldquo;forum&rdquo; feature.&nbsp; Since we are rolling this feature out to our customer base in batches, if you do not already see forums in your Kajabi account, you should see it within the next week.<br /></span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong><span style=\"text-decoration: underline;\">New Squeeze Templates!</span></strong></span></p>\n\
+      <p><span style=\"font-size: medium;\">Of course, what sneak preview would be complete without some more teasers? We leave you today with secret screenshots of just a few of our new Kajabi squeeze pages (stay tuned for details soon!):</span></p>\n\
+      <p><span style=\"font-size: medium;\"><br /></span></p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/squeeze/1.jpg\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/squeeze/2.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/squeeze/3.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/squeeze/4.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><img src=\"http://stevenam.com/kajabi/img/squeeze/5.png\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Let us know what you think below...</strong></span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/a-sneak-peek-at-whats-coming-on-kajabi-73316\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/a-sneak-peek-at-whats-coming-on-kajabi-73316#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: A Sneak Peek At What's Coming On Kajabi!
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/a-sneak-peek-at-whats-coming-on-kajabi-73316
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/we-hate-exit-popups-but
+    "@_rails_html_safe": false
+  published: 2011-06-14 02:50:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/we-hate-exit-popups-but\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-06-13/aipBJtcxIpGDdvBwdcxsohbtHoBaDIHhmHtzEFnJehmjjHHFulsbtIrmdzjG/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>Kajabi-Exit-Pop-Final.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/we-hate-exit-popups-but\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong><span style=\"font-size: x-large;\"><a href=\"http://www.1automationwiz.com/app/?af=1124859&amp;u=http://www.thevideoboss.com/fe/12532-video-boss-live-webcast-3\">Click Here To See Kajabi's Exit Popup</a></span></strong><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-06-13/CFcBeyilxepbfIznHElIfdtbBBjngxkaDbaasyrkejpIDBeDzsizEmmnbIHt/KajabiVideoBossExitPop.png.scaled1000.png\"><img alt=\"Kajabivideobossexitpop\" height=\"415\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-06-13/CFcBeyilxepbfIznHElIfdtbBBjngxkaDbaasyrkejpIDBeDzsizEmmnbIHt/KajabiVideoBossExitPop.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>Exit popups are something that lots of marketers love but most software and web usability experts detest.&nbsp; Marketers will cite cases where the statistics show that adding an exit popup to a sales page increased sales conversions by volumes, while software and usability experts will say that exit popups go against the very thing that the web was designed for: putting the information in the hands of the people and letting them navigate where they wish.<p />If implemented poorly, &ldquo;traditional&rdquo; exit popups are annoying as heck and don&rsquo;t add any value.&nbsp; You know you&rsquo;ve felt it... being held hostage and prevented from leaving a web page by a series of modal popup dialog boxes which block every other action you try to do besides clicking &ldquo;OK&rdquo; or &ldquo;Cancel.&rdquo; <p />These evil exit popups achieve nothing more than aggravating your visitors which pretty much ensures they will never return.&nbsp; In the brick-and-mortar world, this could be likened to a desperate and persistent salesman that follows you out the store and into the parking lot trying to do whatever it takes for you to purchase their product.&nbsp; Sure, sometimes this desperation pitch may work, but I&rsquo;d bet that more often than not the shopper finally drives off muttering about how they will never return to that establishment.<p />There are times, though, when a visitor just may not connect with your web page for whatever reason.&nbsp; Maybe they don&rsquo;t &ldquo;get&rdquo; the angle of your copy or the humor of your video.&nbsp; Maybe you&rsquo;d like to sweeten the offer since they chose not to participate in the original one.&nbsp; Those are situations when a subtle and unobtrusive secondary offer can be presented to the visitor on their way out which may connect with the them and peak their interest.&nbsp; <p />The way to achieve this is to, instead of opening an annoying confirmation dialog, nicely dim the page and display a box with your secondary offer right over the top of the original page.&nbsp; This does not prevent them from leaving the page but it acknowledges to the user that you know they are trying to leave and you&rsquo;d like to tell them one more thing before they take off.<br />&nbsp; <br />If used properly, a properly crafted exit popup can dramatically boost conversions without the risk of frustrating your visitors by holding them hostage.&nbsp; In the brick-and-mortar world, this could be like the retention department of your cell phone or cable company politely making you an offer to stay while you are calling to cancel your service.<p />We have had many people ask if they can use an exit popup with Kajabi.&nbsp; The official answer is that it is not built-in and available &ldquo;out-of-the-box&rdquo; but it definitely is possible with a little intermediate techie knowledge.&nbsp; We cooked up a quick proof of concept and Andy Jenkins put it to the test during his Video Boss pre-launch and during his post-launch webcasts.&nbsp; Go check it out, and while you&rsquo;re at it, be sure to tune into the 3rd installment of his live video webcast Tuesday June 14th at 2PM EST / 11AM PST.&nbsp; There will be a ton of great guests and loads of free valuable content.<p /><strong><span style=\"font-size: x-large;\"><a href=\"http://www.1automationwiz.com/app/?af=1124859&amp;u=http://www.thevideoboss.com/fe/12532-video-boss-live-webcast-3\">Click Here To See Kajabi's Exit Popup</a></span></strong><p />The following is how we actually implemented the exit popup in Kajabi for Andy&rsquo;s page.&nbsp; Be warned that it does involve some techy stuff and HTML code.&nbsp; This is not &ldquo;officially&rdquo; supported code by Kajabi and please use at your own risk.&nbsp; There, you&rsquo;ve been warned:<p />In the funnel event&rsquo;s edit page, there is a section called &ldquo;Custom Tracking Code.&rdquo;&nbsp; This lets you inject custom code into different sections of the page.&nbsp; Click on the third tab which is &ldquo;Bottom of Body.&rdquo;&nbsp; This will inject the code at the very bottom of the HTML document right before the closing of the &lt;body&gt; tag.&nbsp; <p /><span style=\"text-decoration: underline; font-size: medium;\"><strong>Here&rsquo;s the code to paste:</strong></span><p /><code> &lt;div id=\"exit_popup\" style=\"display: none;\"&gt; &nbsp; &lt;h1 class=\"red\"&gt;Wait... Don't Leave Before I Show You This Cool Exit Popup&lt;/h1&gt; &nbsp; &lt;p&gt;I'll show you...&lt;/p&gt; &nbsp; &lt;ul&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;Feature #1&lt;/li&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;Feature #2&lt;/li&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;Feature #3&lt;/li&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;li&gt;&lt;strong&gt;And MUCH, MUCH MORE...&lt;/strong&gt;&lt;/li&gt; &nbsp; &lt;/ul&gt;  &nbsp; [INSERT YOUR OPTIN FORM CODE HERE] &lt;/div&gt;  &lt;script src=\"http://kajabi-assets.s3.amazonaws.com/exitpop/js/exitpop.js\" language=\"javascript\" type=\"text/javascript\"&gt;&lt;/script&gt; &lt;link href=\"http://kajabi-assets.s3.amazonaws.com/exitpop/css/kajabi_exit_pop.css\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" /&gt; &lt;script src=\"http://kajabi-assets.s3.amazonaws.com/exitpop/js/kajabi_exitpop_trigger.js\" language=\"javascript\" type=\"text/javascript\"&gt;&lt;/script&gt; </code><p />Save the funnel event and preview it.&nbsp; You&rsquo;ll notice that a pleasant and soothing box will appear over the original funnel event content when you move your mouse up to the top edge of the browser, as if you were going to leave the page.<p />Remember, though, that just because something is possible does not mean that you should do it.&nbsp; You need to really think carefully about the pros and cons of using exit popups.&nbsp; Will it help or hinder what you are trying to accomplish?&nbsp; Are you presenting a different offer or angle than your first offer or is it merely a &ldquo;Pretty please!&nbsp; I need the money!&rdquo; plea?<p />What do you think about exit popups?&nbsp; Are they beneficial or just pure evil?&nbsp; Let us know below.</p>\n\
+      <p>P.S. If you are even the slightest bit interested in really learning how you can use video to increase the effectiveness of your online marketing, then you really need to <span style=\"font-size: small;\"><strong><a href=\"http://www.1automationwiz.com/app/?af=1124859&amp;u=http://www.thevideoboss.com/sp/4567-get-started\">Check out The Video Boss</a></strong></span>.&nbsp; It is being pulled off the market Tuesday June 14th at midnight PST.<strong><span style=\"font-size: x-large;\"><a href=\"http://www.1automationwiz.com/app/?af=1124859&amp;u=http://www.thevideoboss.com/fe/12532-video-boss-live-webcast-3\"><br /></a></span></strong></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/we-hate-exit-popups-but\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/we-hate-exit-popups-but#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: We HATE exit popups... but...
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/we-hate-exit-popups-but
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/how-a-smart-launch-rocketed-this-membership-p
+    "@_rails_html_safe": false
+  published: 2011-05-27 19:30:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p>\n\
+      <object height=\"290\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" width=\"600\">\n\
+      <embed src=\"http://mixergy-cdn.wistia.com/flash/embed_player_v1.1.swf\" type=\"application/x-shockwave-flash\" wmode=\"opaque\" height=\"290\" flashvars=\"videoUrl=http://mixergy-cdn.wistia.com/deliveries/b19f4043d56a5ecb677f6b4c27a988bf3865dd38.bin&amp;stillUrl=http://mixergy-cdn.wistia.com/deliveries/dbaf34029ec10e5a3e1a1e3d24c0a5d8a850be7d.bin&amp;unbufferedSeek=true&amp;controlsVisibleOnLoad=false&amp;autoPlay=false&amp;endVideoBehavior=default&amp;playButtonVisible=true&amp;embedServiceURL=http://distillery.wistia.com/x&amp;accountKey=wistia-production_1621&amp;mediaID=wistia-production_375195&amp;mediaDuration=3590.23\" width=\"600\"></embed>\n\
+      </object>\n\
+      </p>\n\
+      <p />\n\
+      <div class=\"socialbar\"><a href=\"http://wistia.com\" title=\"video hosting\"><img src=\"http://static.wistia.com/images/badges/wistia_100x96_black.png\" height=\"16\" alt=\"Wistia\" width=\"100\" /></a></div>\n\n\n\n\n\
+      <p>&nbsp;</p>\n\
+      <p>Andrew Warner from <a href=\"http://mixergy.com/rueter-and-rosser-kajabi-interview/\">mixergy</a> interviewed our founders Travis and Kenny.</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/how-a-smart-launch-rocketed-this-membership-p\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/how-a-smart-launch-rocketed-this-membership-p#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: "How A Smart Launch Rocketed This Membership Platform \xE2\x80\x93 with Kenny Rueter & Travis Rosser"
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/how-a-smart-launch-rocketed-this-membership-p
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/6-tips-to-survive-our-information-bubble
+    "@_rails_html_safe": false
+  published: 2011-05-19 17:14:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"6-tips\" height=\"480\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-05-19/IuHFuopjwDovJGoAuacGmAwkdGdrhBaIAoCdqtFEjxgjdCHtrnwiwyIbAyhF/6-tips.jpg.scaled600.jpg\" width=\"500\" />\n\
+      </div>\n\
+      </p>\n\
+      <p>We are in an information bubble. Or as some call it, an \"education bubble.\"&nbsp;</p>\n\
+      <p>The founder of Paypal recently touched upon this issue, as <a href=\"http://techcrunch.com/2011/04/10/peter-thiel-were-in-a-bubble-and-its-not-the-internet-its-higher-education/\" target=\"_blank\">outlined</a> in TechCrunch:</p>\n\
+      <blockquote>\n\
+      <p>&ldquo;A true bubble is when something is overvalued and intensely believed,&rdquo; he says. &ldquo;Education may be the only thing people still believe in in the United States. To question education is really dangerous. It is the absolute taboo. It&rsquo;s like telling the world there&rsquo;s no Santa Claus.&rdquo;</p>\n\
+      <p>Like the housing bubble, the education bubble is about security and insurance against the future. Both whisper a seductive promise into the ears of worried Americans: Do this and you will be safe. The excesses of both were always excused by a core national belief that no matter what happens in the world, these were the best investments you could make.&nbsp;</p>\n\
+      <p>Housing prices would always go up, and you will always make more money if you are college educated.</p>\n\
+      </blockquote>\n\
+      <p>Yet, the housing bubble burst. And soon the same will happen to our information bubble.&nbsp;</p>\n\
+      <p>With the rise of innovation within technology and the internet, we're presented with billions of new ways to connect with each other. We're also presented with instant access to billions of data.</p>\n\
+      <p>In addition to this, recent college grads are rushing off to higher education so that instead of being labelled \"unemployed,\" they can be labelled, \"Unemployed, Ph.D.\"&nbsp;</p>\n\
+      <p>There has been no other time in history where people have both curated and consumed as much information.&nbsp;</p>\n\
+      <p><strong>The one thing everyone seems to be missing is that information alone is worthless.&nbsp;</strong></p>\n\
+      <p>However, information, when applied, becomes valuable.&nbsp;</p>\n\
+      <p>The biggest problem is that consumers have increased their level of information consumption, but not their level of information application (meaning, the ability to apply and implement the knowledge one receives).&nbsp;</p>\n\
+      <p><strong>So in our current information bubble, how do you survive the near collapse of information consumption?&nbsp;</strong></p>\n\
+      <p><strong>The answer is simple:&nbsp;</strong></p>\n\
+      <p><strong>Stop selling hope, and start selling results.&nbsp;</strong></p>\n\
+      <p>Products today are filled with information, but not actionable tips (be that a degree, a seminar, a course, an eBook, an audio-tape, a membership site, or whatever). When you're selling only information, you're selling hope, when you're selling actionable tips, you're selling results.&nbsp;</p>\n\
+      <p>Those who survive our information bubble and become the leading marketers online are those that implement actionable tips into their product.&nbsp;</p>\n\
+      <p>So how does one make their product actionable? By implementing the following 6 tips below.&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: large;\">1) Case Studies</span></strong></p>\n\
+      <p>The Harvard Business School continues to dominate the top business school rankings not because of their name, but because of their results.&nbsp;</p>\n\
+      <p>HBS set the standard by implementing a teaching method called the \"Case Method.\" Basically, the case method revolves around creating a real-life business scenario, and giving the students a framework or model to solve that problem.&nbsp;</p>\n\
+      <p>Instead of lecturing from a text book, students are, #1 broken into teams, #2 are taught about a specific framework or business model, #3 given a real-life situation, and then #4 asked to solve that business problem using the framework they just learned.&nbsp;</p>\n\
+      <p>Here's an overview below:</p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/eA5R41F7d9Q\" frameborder=\"0\" height=\"390\" width=\"640\"></iframe></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: large;\">2) Templates</span></strong></p>\n\
+      <p>The second tool for creating an actionable product is to break your video, chapter, lesson or tutorial into a template. Outline what the person was taught in either an overview or a mind map.&nbsp;</p>\n\
+      <p>You can find a variety of templates at <a href=\"http://Scribd.com\" target=\"_blank\">Scribd.com</a>, and some great mind maps at <a href=\"http://mindmeister.com\" target=\"_blank\">mindmeister.com</a></p>\n\
+      <p><strong><span style=\"font-size: large;\">3) Challenges / Missions / Roadmap</span></strong></p>\n\
+      <p>The third tool for creating an actionable product centers on creating a guide for your customers.&nbsp;</p>\n\
+      <p>Using a challenge (i.e. a 30-day challenge), or missions, you can break up your course into small actionable pieces of information, and then task your customers with carrying out those missions on a daily/weekly/monthly basis.&nbsp;</p>\n\
+      <p>This concept allows your customers to avoid \"information overload\" and gives them the action plan to apply what you're teaching them.&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: large;\">4) Welcome video</span></strong></p>\n\
+      <p>One of the most important components of making your product actionable rests on their first experience with your product. When they first come into contact with your product, the customer must be hand-held. Otherwise, they may either give up or ask for a refund.&nbsp;</p>\n\
+      <p>For your welcome video, introduce yourself, reassure them that they made a great investment, and tell them what to do next.&nbsp;</p>\n\
+      <p>Get them started on the right foot, and you'll find yourself a life-long customer and someone who applies your material.&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: large;\">5) Cater to all types of learners</span></strong></p>\n\
+      <p>In a <a href=\"http://blog.kajabi.com/9-little-known-ways-to-decrease-your-refund-r\" target=\"_blank\">previous post</a> we outlined the four types of learners:</p>\n\
+      <p>It's important that you cater your course to all types of learners; otherwise, one type of learner may find your material virtually worthless and impossible to apply.&nbsp;</p>\n\
+      <p>The four types of learners are:</p>\n\
+      <p><strong>A) Content Learners:&nbsp;</strong></p>\n\
+      <p>Those that learn through reading content.</p>\n\
+      <p>Examples: Books, eBooks, Textbooks</p>\n\
+      <p><strong>B) Visual Learners:&nbsp;</strong></p>\n\
+      <p>Those that prefer visual depictions when learning about something new.</p>\n\
+      <p>Examples:, videos, live seminars, powerpoint, graphs, charts, infographics</p>\n\
+      <p><strong>C) Kinesthetic Learners:</strong></p>\n\
+      <p>Those that learn by touching, moving or doing something themselves.</p>\n\
+      <p>Examples: Athletic training, Lab experiments, Case studies, Experiments, Application</p>\n\
+      <p><strong>D) Auditory Learners:</strong></p>\n\
+      <p>Those that learn by hearing and listening to information.</p>\n\
+      <p>Examples: Audiobooks, Audio courses, Interviews, Podcasts</p>\n\
+      <p><strong><span style=\"font-size: large;\">6) A community that holds you accountable</span></strong></p>\n\
+      <p>Last, it's critical that your customers feel supported and are held accountable. For this reason, we built a social community into Kajabi where users can interact with one another.&nbsp;</p>\n\
+      <p><span style=\"font-size: large;\"><strong>Summary</strong></span>:</p>\n\
+      <p>We are in an information bubble, and in order to survive the bubble, it's important that you carry out the following 6 tips:&nbsp;</p>\n\
+      <p><strong>1) Case Studies</strong></p>\n\
+      <p><strong>2) Templates</strong></p>\n\
+      <p><strong>3) Challenges / Missions / Roadmap</strong></p>\n\
+      <p><strong>4) Welcome video</strong></p>\n\
+      <p><strong>5) Cater to all types of learners</strong></p>\n\
+      <p><strong>6) A community that holds you accountable</strong></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: large;\">Did you enjoy this post? Then you'll love this Limited Time Special!&nbsp;</span></strong></p>\n\
+      <p>Brendon Burchard launched Total Product Blueprint on Thursday, May 19, 2011 and it is open to a limited number of customers.&nbsp;</p>\n\
+      <p><strong>Total Product Blueprint will show you how to apply the lessons outlined in this post, and much, much more.&nbsp;</strong></p>\n\
+      <p><span style=\"color: #0000ff;\"><strong>If you purchase the Total Product Blueprint through this link, we'll give you a <span style=\"text-decoration: underline;\">Free Kajabi Pro Account for one year.&nbsp;</span></strong></span></p>\n\
+      <p><span style=\"color: #0000ff;\">Total Product Blueprint is a 6-module deep-dive training on how to create information products and programs, and how to market them strategically and effectively to generate recurring revenue while building an enduring expert/guru brand.</span></p>\n\
+      <p><span style=\"color: #0000ff;\"><em><strong><span style=\"font-size: x-large;\"><a href=\"https://burchardgroup.infusionsoft.com/go/tpblive/kajabi\" target=\"_self\">Click here to check it out!</a></span></strong></em></span></p>\n\
+      <p>TPB provides sample outlines, scripts, examples, and marketing emails and sample webpages (including exactly what campaigns to run and what effective opt-in and sales pages should look like) for each type of product and program. You'll learn the tactical instructions and tips for creating and marketing these 12 products and programs:&nbsp;</p>\n\
+      <ul>\n\
+      <li>Module #1: ebooks/books&nbsp;</li>\n\
+      <li>Module #2: teleseminars and audio programs&nbsp;</li>\n\
+      <li>Module #3: webinars and continuity/memberships</li>\n\
+      <li>Module #4: speeches and seminars/live events&nbsp;</li>\n\
+      <li>Module #5: online courses and dvd home study courses</li>\n\
+      <li>Module #6: coaching/consulting and mastermind programs&nbsp;</li>\n\
+      </ul>\n\
+      <p>TPB also includes a 30-day 100% satisfaction guarantee and TENS OF THOUSANDS OF DOLLARS worth of bonus training.</p>\n\
+      <p>Course is NOW OPEN for a limited time.  Be sure to get in before it closes!</p>\n\
+      <p><span style=\"color: #0000ff;\"><em><strong><span style=\"font-size: x-large;\"><a href=\"https://burchardgroup.infusionsoft.com/go/tpblive/kajabi\" target=\"_self\">Click here to check it out!</a></span></strong></em></span></p>\n\
+      <p>Again, if you purchase the Total Product Blueprint through this link, we'll give you a Free Kajabi Pro Account for one year.&nbsp;</p>\n\
+      <p>* This Bonus applies to non Kajabi customers as well as current customers.</p>\n\
+      <p>* Free accounts will be issued and effective within 14 days of Kajabi receiving confirmation of the sale from Brendon Burchard.</p>\n\
+      <p>* If customer refunds their purchase of Total Product Blueprint, they will be given a minimum of 3 days notice before their free Kajabi account is suspended. &nbsp;At that time they will either have to upgrade the account to a paying plan, or have their account cancelled.</p>\n\
+      <p>* After you purchase the course through the link, send the following to <a href=\"mailto:contests@kajabi.com\">contests@kajabi.com</a> \"I love Burchard, I love Kajabi and I love winning\" After this, we'll send you details on getting set up with your free Kajabi pro account.&nbsp;</p>\n\
+      <p><span style=\"font-size: large;\"><strong><em><a href=\"https://burchardgroup.infusionsoft.com/go/tpblive/kajabi\" target=\"_blank\">Free Kajabi + Awesome Course = Win</a></em></strong></span></p>\n\
+      <p>&nbsp;</p>\n\
+      <p>&nbsp;</p>\n\
+      <p>&nbsp;</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/6-tips-to-survive-our-information-bubble\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/6-tips-to-survive-our-information-bubble#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: 6 Tips to Survive our Information Bubble!
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/6-tips-to-survive-our-information-bubble
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/5-quick-tips-to-becoming-a-copywriting-badass
+    "@_rails_html_safe": false
+  published: 2011-04-26 22:57:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Chuck-norris\" height=\"352\" src=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-04-26/xujvFvGCnFmglbxllAdnnsFnFcuGwGfiJbdDGGoHmEDHmkvEFghrafaJilwj/chuck-norris.jpg.scaled600.jpg\" width=\"440\" />\n\
+      </div>\n\
+      </p>\n\
+      <p>Let's cut straight to the meat and not fart around:<p /><strong><span style=\"font-size: x-large;\">Step 1: Write drunk, edit sober</span></strong><p />Edgar Allen Poe, F. Scott Fitzgerald, Ernest Hemingway and William Faulkner all have one thing in common (besides being dead): they wrote under the influence. <p />There's nothing worse than uptight writing. Readers can sense when you're holding something back from them. With your first draft, avoid contemplating what's appropriate and what's not. Writing offers something many wish life offered: the ability to edit your mistakes in the morning. <p /><strong><span style=\"font-size: x-large;\">Step 2: Stalk your readers</span></strong><p />Knowing your audience has never been easier with <span style=\"text-decoration: line-through;\">stalker</span> tools like Facebook and Twitter.<p />Simply slap on a Facebook Fan Widget (like the one we have on our blog here) and check out your fans. <p />After viewing a couple dozen profile pages, you can soon get to know your audience. <p />Here's a checklist of our audience that you may want to use:<p /><em><strong><span style=\"font-size: large;\">Meet Kajabi Joe</span></strong></em><p /><strong>Favorite Movies:</strong></p>\n\
+      <ul>\n\
+      <li>Rocky</li>\n\
+      <li>Rudy</li>\n\
+      <li>Dead Poets Society</li>\n\
+      <li>Gladiator</li>\n\
+      </ul>\n\
+      <p><br /><strong>Interests:</strong></p>\n\
+      <ul>\n\
+      <li>Self Help</li>\n\
+      <li>Kaizen</li>\n\
+      <li>Self Improvement</li>\n\
+      <li>Internet Marketing</li>\n\
+      <li>Spirituality </li>\n\
+      <li>Inspirational Quotes</li>\n\
+      </ul>\n\
+      <p><br /><strong>Favorite Books/Authors:</strong></p>\n\
+      <ul>\n\
+      <li>Chicken Soup for the Soul</li>\n\
+      <li>Guy Kawasaki</li>\n\
+      <li>Think and Grow Rich</li>\n\
+      <li>E-Myth</li>\n\
+      <li>PPC Marketing</li>\n\
+      <li>Gary Vaynerchuck</li>\n\
+      <li>4 Hour Work Week</li>\n\
+      </ul>\n\
+      <p><br /><strong>Quotes:</strong></p>\n\
+      <ul>\n\
+      <li>\"You can get what you want by helping other people get what they want.\"</li>\n\
+      <li>\"Learning is the key to success.\"</li>\n\
+      </ul>\n\
+      <p><br /><strong>Political Affiliation:</strong></p>\n\
+      <ul>\n\
+      <li>Moderate-Conservative</li>\n\
+      </ul>\n\
+      <p><strong>Favorite Music:</strong></p>\n\
+      <ul>\n\
+      <li>U2</li>\n\
+      <li>Red Hot Chili Peppers</li>\n\
+      <li>Sting</li>\n\
+      <li>Coldplay</li>\n\
+      <li>Bruce Springsteen</li>\n\
+      </ul>\n\
+      <p><br />By knowing more about your reader, you'll increase chances of writing a dud post. <p /><strong><span style=\"font-size: x-large;\">Step 3: Don't use the word \"is\" ever again</span></strong><p />In grammar class, you may have heard, <em>Use the Active Voice, not the Passive Voice.</em> After which, a boring, forgettable lesson proceeds that teaches you the difference between the \"Active\" and \"Passive\" voice. For instance:<p /><strong>Passive Voice:</strong><br />A rainbow unicorn is inspired by magic.<p /><strong>Active Voice:</strong><br />Magic inspires rainbow unicorns. <p />But there exists a simpler, and just-as-effective rule to memorize: <strong>&nbsp;</strong></p>\n\
+      <p><strong>Drop the word \"is\" from your vocabulary. </strong><p />Instead, replace \"is\" with verbs that encapsulate what you communicate. <p /><strong><span style=\"font-size: x-large;\">Step 4: Cut the fat</span></strong><p /><strong><span style=\"font-size: x-large;\">Step 5: Write your headline first</span></strong><p />The headline stands as the most critical component of your writing piece. For that reason, do write it first. <p />Listed below are two resources to bookmark: <p /><strong>1. Copyblogger</strong><br />Check out Brian Clark's list of \"Magnetic Headline\" posts: <a href=\"http://www.copyblogger.com/magnetic-headlines/\" target=\"_blank\">http://www.copyblogger.com/magnetic-headlines/ </a><p /><strong>2. Sphinn</strong><br />Visit Sphinn (<a href=\"http://sphinn.com/\" target=\"_blank\">www.sphinn.com</a>) and scan the top articles and note the headlines that make it to the top. Then reverse-engineer the psychology behind, A) why the author chose the wording for the headline, and B) why it became so popular. <p /><strong><span style=\"font-size: x-large;\">Step 6: Write on paper first</span></strong><p />Nothing beats writing on paper. No constraints exist. The mind simply frees itself with pen and pad. Try it the next time you write in any form (even sending an email). Writing on paper may take longer, but the improvement in your writing will show immediately.</p>\n\
+      <p><span style=\"font-size: large;\"><strong>Summary</strong></span>:</p>\n\
+      <p>Scientists have found that following those 6 steps will improve your copywriting skills and round-house kick skills.</p>\n\
+      <p>Therefore, implement them.</p>\n\
+      <p>Godspeed and good luck.</p>\n\
+      <p>&nbsp;</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/5-quick-tips-to-becoming-a-copywriting-badass\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/5-quick-tips-to-becoming-a-copywriting-badass#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: 6 Simple Steps to Becoming a Copywriting Badass
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/5-quick-tips-to-becoming-a-copywriting-badass
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/9-little-known-ways-to-decrease-your-refund-r
+    "@_rails_html_safe": false
+  published: 2011-04-07 00:00:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Refunds-suck\" height=\"731\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-07/ctHjvjFCdvBxhzHhIuaqvgtgeJxfFGuuIptfaAEqCzxdBCHbcnhBFcHdrHrI/refunds-suck.jpg.scaled600.jpg\" width=\"425\" />\n\
+      </div>\n\
+      </p>\n\
+      <p>Too often we marketers and businesses focus too much on the front-end sales process and not enough on the most critical piece component of business: making customers happy.</p>\n\
+      <p>Front-end marketing strategies present a more exciting challenge to marketers than customer support or tech support. Who wants to spend a huge amount of time focusing on their product's bugs or issues? For every blog post on customer support, you'll find thousands on A/B testing, optimization, SEO and PPC articles. <p />But the best businesses online know that there's one small difference between companies who succeed long-term and those that wither away. And that difference is your ability to consistently make your customer happy. <p /><strong><span style=\"font-size: x-large;\">The most important metric that nobody likes to track</span></strong><br />Of the many ways to gauge how your product or business is doing (unique visitors, new signups, conversion rate),&nbsp; the figure that's most telling and also the least enjoyable is your refund rate. <p />If you haven't already done so, please make a note somewhere on your desk (via sticky note, or by writing on your forehead), that you need to track your refund rate (or cancellation rate). <p />After you've done so, you'll then need to answer the following question:</p>\n\
+      <p><span style=\"font-size: medium;\"><em><strong>\"How can we lower our refund rate?</strong>\"</em></span><p />Below, we've outlined 9 ways that will allow you to lower your refund rate and make your customers happier:<p /><strong><span style=\"font-size: x-large;\">1. Swift and soothing gratification (professionally speaking, that is)</span></strong><p />Today, people are much more comfortable purchasing a product or service online than they were in the early 90's. Even so, a feeling of uneasiness still exists when it comes to purchasing products online <strong>from unfamiliar brands</strong>. <p /><span style=\"font-size: large;\"><strong>The Rule of Instant Thanks and 15 Second Confirmation:</strong></span><br />In order to ease people's tension, it becomes necessary to deliver their product as fast as possible. As a rule of thumb, your aim should be to, a) take your customers immediately to a Thank You page (and perhaps even include a video literally telling them, \"Thank you!\"), and b) email the customer a summary of their order within 15 seconds of the user clicking \"Purchase.\" <p />If you leave the user unsure about what to do next within 15 seconds, you lose trust.</p>\n\
+      <p>Right from the get-go you signal that you're not detailed or prompt. As a result, they'll expect that's how the entire experience will be. <p /><span style=\"font-size: large;\"><strong>How you start is how you'll end</strong></span><br />In communication studies, researchers find that how one begins the conversation is how it will end. For instance, if you walk in the door from a stressful day at work and in a negative tone, ask your spouse, \"What did <em><strong>YOU</strong></em> do today???\", you can bet that the rest of the conversation will be negative and end negative. <p />The same occurrence also takes place with your customers. If you start off on the wrong foot with them, you'll end on the wrong foot. <p /><strong><span style=\"font-size: large;\">Actionable soothing gratification methods:</span></strong></p>\n\
+      <p><strong>i. After your customer clicks \"Buy\" take them immediately to a page that tells them the next steps.&nbsp;</strong></p>\n\
+      <p>In Kajabi this means that you should add a personalized message to the Thank You page when editing your Sales Page (see pic below).</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/lcapavqIIdiyqvqiabJmrHnouytHCbbxvFHGryIJalcsaIuBopEAqAoJlyng/thank-you-page.png.scaled1000.png\"><img alt=\"Thank-you-page\" height=\"517\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/lcapavqIIdiyqvqiabJmrHnouytHCbbxvFHGryIJalcsaIuBopEAqAoJlyng/thank-you-page.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>ii. Send them an email confirmation with a summary of what they purchased (within 15 seconds). </strong></p>\n\
+      <p><strong>iii. After they enter your membership area show them a video that gives an overview and a \"What you should do now\"</strong></p>\n\
+      <p><strong>iv. If you're selling access to a private course, set it up so that they are immediately sent a username/password to their site.</strong></p>\n\
+      <p>For instance, when using Kajabi with Clickbank, the user is sent their login credentials immediately after purchasing the item from Clickbank. This gives the user a stronger sense that the product is valuable, and not just some eBook. In turn, you'll experience a lower refund rate. <p /><strong><span style=\"font-size: x-large;\">2. Cater to all learning styles</span></strong><p />There are basically four types of learners:<p /><strong><span style=\"font-size: large;\">A) Content Learners: </span></strong><br />Those that learn through reading content.<p /><strong>Examples</strong>:</p>\n\
+      <ul>\n\
+      <li>Books</li>\n\
+      <li>eBooks </li>\n\
+      <li>Textbooks</li>\n\
+      </ul>\n\
+      <p><br /><strong><span style=\"font-size: large;\">B) Visual Learners: </span></strong><br />Those that prefer visual depictions when learning about something new.<p /><strong>Examples</strong>:</p>\n\
+      <ul>\n\
+      <li>videos</li>\n\
+      <li>live seminars</li>\n\
+      <li>powerpoint</li>\n\
+      <li>graphs</li>\n\
+      <li>charts</li>\n\
+      <li>infographics</li>\n\
+      </ul>\n\
+      <p><br /><strong><span style=\"font-size: large;\">C) Kinesthetic Learners:</span></strong><br />Those that learn by touching, moving or doing something themselves.<p /><strong>Examples:</strong></p>\n\
+      <ul>\n\
+      <li>Athletic training</li>\n\
+      <li>&nbsp;Lab experiments</li>\n\
+      <li>Case studies</li>\n\
+      <li>Experiments</li>\n\
+      <li>Application</li>\n\
+      </ul>\n\
+      <p><br /><strong><span style=\"font-size: large;\">D) Auditory Learners:</span></strong><br />Those that learn by hearing and listening to information. <p /><strong>Examples</strong>:</p>\n\
+      <ul>\n\
+      <li>Audiobooks</li>\n\
+      <li>Audio courses</li>\n\
+      <li>Interviews</li>\n\
+      <li>Podcasts</li>\n\
+      </ul>\n\
+      <p>Chances are, you enjoy a combination of these learning styles. Maybe you prefer Kinesthetic Learning, but cannot stand Content Learning (i.e. learning by reading a textbook). The problem arises when your product (let's say an eBook), only speaks to the Content Learners and not any other type of learner.<strong> When your product caters to only one type of learner, you significantly increase your chance of refunds.</strong><p />In other words, if your product is an eBook, you're leaving out 75% of the other learning styles!<p />The advantage with selling eBooks centers on the fact that it's digital. The delivery is automated. Meaning, there's no costs of shipping a product and there's virtually zero delay for the user, it's delivered instantly after their purchase. However, it is possible to create a digital product that caters to all four types of learners. One can do this by creating a private membership community and <a href=\"http://blog.kajabi.com/info-marketing-demystified\" target=\"_blank\">selling access the the community</a>. And that's what Kajabi enables you to do <p /><strong><span style=\"font-size: x-large;\">3. Wrap your product in social</span></strong><br />Pretend you're the president of a university and you were faced with the challenge of student retention.</p>\n\
+      <p>What would you do to keep kids in school?<p />Would you assign them more work? Would you make everyone double major?<p />If you did, you'd encourage losing even more students.</p>\n\
+      <p>Many colleges have found that adding social activities, athletics and clubs actually increases student retention. Colleges have found these types of activities to be so beneficial that some colleges even require students to be a part of a social group. For instance, California Institute of Technology (CalTech), requires students to participate in sports even if they've never played the sport before in their life. <strong>Side note:</strong> This may also explain why CalTech set the record for the longest conference losing streak in basketball of 26 years (yes, from 1985 - 2011, CalTech never won a conference game). <p /> \n\
+      <object height=\"478\" width=\"600\">\n\
+      <param name=\"movie\" value=\"http://www.youtube.com/v/psHld13lCFA?fs=1&amp;hl=en_US&amp;rel=0\" />\n\
+      <param name=\"allowFullScreen\" value=\"true\" />\n\
+      <param name=\"allowscriptaccess\" value=\"always\" /><embed src=\"http://www.youtube.com/v/psHld13lCFA?fs=1&amp;hl=en_US&amp;rel=0\" type=\"application/x-shockwave-flash\" height=\"478\" width=\"600\"></embed>\n\
+      </object>\n\
+      <p /> <strong>Bottom line:</strong></p>\n\
+      <p>Create a social environment around your product.</p>\n\
+      <p><strong><span style=\"font-size: large;\">How to Add a Social Component to Your Product</span></strong></p>\n\
+      <p><strong>i. Add a forum to your membership portal</strong></p>\n\
+      <p>In Kajabi, simply enable community in your \"Settings\" tab.</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Community-enable\" height=\"481\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/aHsJmdoFcblianDyikhqDprsklecFBnnyozGFGBGEpeIgJDxauyFrkjsramc/community-enable.png.scaled600.png\" width=\"561\" />\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>ii. Allow users to comment on your content</strong></p>\n\
+      <p>In Kajabi, make sure you select \"Allow Comments\" in your content area.</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/xcIwFphjlurqywjChbbxGpioeoblrCjbbrGFlcdcDAFIxwBIIprBikgiswHd/allow-comments.png.scaled1000.png\"><img alt=\"Allow-comments\" height=\"277\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/xcIwFphjlurqywjChbbxGpioeoblrCjbbrGFlcdcDAFIxwBIIprBikgiswHd/allow-comments.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>iii. Enable the social dashboard</strong></p>\n\
+      <p>In your dashboard area, choose the social option so that users will see interaction when logging into the membership portal.</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/oaiwnvppaquBfcphCihqpAzsvlggvCAErbbzhikmeJcImImroFzqxAzlbqsg/dashboard-social.png.scaled1000.png\"><img alt=\"Dashboard-social\" height=\"361\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/oaiwnvppaquBfcphCihqpAzsvlggvCAErbbzhikmeJcImImroFzqxAzlbqsg/dashboard-social.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>iv. Get involved</strong></p>\n\
+      <p>Last, and most important, actively interact with your customers. Respond to every single comment or forum topic. It shows that you do care about your community and will lower your refund rate.</p>\n\
+      <p>We've found that even the massive product launches that only happen once a year still remain active and alive through the interraction within the product's community. This is a powerful element that shouldn't be overlooked. <p /><strong><span style=\"font-size: x-large;\">4. Get OCD with your product</span></strong><p />Believe it or not, small things go a long way in reducing your refund rate. By giving your customers small, detailed bits of added value, it communicates that you truly care about every little detail in their experience with you.</p>\n\
+      <p>For instance, when you login to Kajabi, you'll find tips on every page and articles that take you through each detail on that screen.</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/hvCAIDwfkrysCzGBiysyrCcqaIDujaFJthqyIcBpdzCeBwpyarGhBwgBjmGb/tips.png.scaled1000.png\"><img alt=\"Tips\" height=\"468\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/hvCAIDwfkrysCzGBiysyrCcqaIDujaFJthqyIcBpdzCeBwpyarGhBwgBjmGb/tips.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>Though it may not be natural for you to be OCD about your customer's experience, it goes a long way in reducing your refund rate. <p /><strong><span style=\"font-size: x-large;\">5. Stage additional value over time<br /></span></strong></p>\n\
+      <p>Let's say you were dating someone and things were going \"so-so.\" Let's also pretend that the person you're dating planned an all-inclusive trip for you to the British Virgin Islands and... paid for everything!</p>\n\
+      <p>Would you break up with that person before the trip or give things a chance and consider breaking up after the trip? Assuming you're not an albino, you'll wait things out. <p />The same concept can be applied to your product. <p /><strong>Instead of giving your customers everything at once, stage-out value over time</strong>. If you were planning on giving your customers five bonuses, give them a bonus every quarter instead. <p />You may also want to consider building your business on a monthly membership and pushing out value to your customers on a regular basis. However, it's important that you also understand the amount of dedication and work this entails.</p>\n\
+      <p>Turning your product into a monthly membership model requires a commitment to releasing new features or content to your customers. This is the model we chose to implement with Kajabi, and as such, we refine our product and add new features regularly. <p /><strong><span style=\"font-size: x-large;\">6. Try the \"Homemade Grandma Trick\"<br /></span></strong></p>\n\
+      <p>Another thing we&rsquo;ve seen work really well are homemade treats. Yes, homemade treats. A service called, <a href=\"http://www.cookiesbydesign.com/\" target=\"_blank\">Cookie's By Design</a>, allows you to automatically deliver cookies to your customers. When you send them something that reminds them of their grandma&rsquo;s homemade treats (like chocolate chip cookies), there&rsquo;s a higher probability that your customer will associate you with someone that's kind than \"just <em>another</em> company.\"</p>\n\
+      <p>Unexpected and thoughtful treats like not only will create long-term customers, it will create fans (for more on creating fans, <a href=\"http://blog.kajabi.com/hines-ward-nfl-player-pittsburgh-steeler-inte\" target=\"_blank\">check out how Hines Ward used Kajabi</a>).</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">7. Gather feedback... and implement it!<br /></span></strong></p>\n\
+      <p>One very powerful way to keep customers happy centers on giving them what they asked for. Seem like a no-brainer? It is. But companies and marketers rarely do so. <p />For Kajabi, our <a href=\"http://feedback.kajabi.com/forums/94971-kajabi-feature-requests\" target=\"_blank\">feedback forum</a> is powered by a service called <a href=\"http://uservoice.com/\" target=\"_blank\">UserVoice</a>. After logging into Kajabi, customers find a \"Feedback\" tab in the left hand side of their browser. After clicking the tab they are taken to our Feedback Forum&nbsp; where they can submit a feature and vote on other people's feature requests. On a weekly basis we look at the top features and adjust our development to meet our customers' needs. Our customers love it, as do we. It allows us to avoid building something our users don't want. <p />A critical follow-up to this approach is that you should notify your customers when you've finished creating what they requested. We do so here on our blog. You can <a href=\"http://blog.kajabi.com/tag/productnews\" target=\"_blank\">check out our product updates here</a>.<p /><strong><span style=\"font-size: x-large;\">8. Support, support, support, support</span></strong></p>\n\
+      <p>A book that inspired us recently was <em>Delivering Happiness</em>, by CEO of Zappos, Tony Hsieh. It tells the tale of Tony's life and outlines his experiences as an entrepreneur. Much of the book revolves around Tony's company, Zappos. <p />Zappos is a shoe company that struggled for multiple years in finding its identity. After facing multiple encounters of restructuring the business and near-bankruptcy, Zappos finally found its competitive edge: customer support. <p />Zappos made customer support their core focus. They introduced things like a 365-day guarantee and free shipping. They even gave their customers links to their competitors' websites if they didn't carry the brand the customer was looking for. <p />Not only did this focus on customer support result in lower refund rates, it also became a massive source of marketing for Zappos. Each customer was so happy with their purchase that they told their friends and family about Zappos. <p />For us at Kajabi, support is a constant and never-ending focus. We have of our customer support team read <em>Delivering Happiness</em> and even give free copies to candidates that are considering working for us.</p>\n\
+      <p><strong>If you invest resources in support, your refund rate and perhaps even your new customer acquisition cost will reflect that investment. </strong><p /><strong><span style=\"font-size: x-large;\">9. Rewards, whether virtual or real, are still rewards (and people love 'em)</span></strong></p>\n\
+      <p>One last effective way to lower your refund rate is to reward your most active customers, as well as your longest customers. One can do this by giving their first customers special deals, or giving your members special badges that they can sport in public. Oftentimes you'll find that message boards offer users the ability to sport badges (like bronze, silver, gold platinum, etc.). These badges can be rewarded to long-time customers or those who post the most.</p>\n\
+      <p>It may seem rather insignificant, but \"power users\" care about these types of rewards and it's a great way to publicly recognize such customers.<p /><strong><span style=\"font-size: x-large;\">Summary:</span></strong></p>\n\
+      <p>Your refund rate and cancellation rate are the most important metric you should track.</p>\n\
+      <p>In order to lower your refund rate and cancellation rate forever, implement the following 9 tactics:</p>\n\
+      <ol>\n\
+      <li>Give your customers swift and soothing gratification.</li>\n\
+      <li>Speak to all four learning styles: content, visual, kinesthetic and auditory.</li>\n\
+      <li>Wrap your product in a social environment. </li>\n\
+      <li>Get OCD with your product. </li>\n\
+      <li>Stage additional value over time. </li>\n\
+      <li>Try the \"Homemade Grandma Trick\"</li>\n\
+      <li>Gather feedback and implement it!</li>\n\
+      <li>Invest in support.</li>\n\
+      <li>Reward your customers publicly.</li>\n\
+      </ol>\n\
+      <p>We hope you've enjoyed this post and gained something valuable. By no means do we declare this list complete. And, by all means share more strategies that have helped you lower your refund rate in the comment section below!</p>\n\
+      <p><span style=\"color: #ff0000;\"><strong><span style=\"font-size: medium;\">Special Little Bonus: Free Shirt!<br /></span></strong></span></p>\n\
+      <p>As a gift to you, we've decided to give away a Free Kajabi shirt:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"K-awesome\" height=\"481\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-04-06/uunmtxajIyihDHHmDuzqJbgtAcuudhIfhkijvCysylnFykphsfAiIEGHxmDh/k-awesome.png.scaled600.png\" width=\"499\" />\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>To qualify, follow these two steps: <br /></strong></p>\n\
+      <p>1) Share something that has helped you lower your refund rate.</p>\n\
+      <p>2) Tweet this post!</p>\n\
+      <p>After that, we'll randomly pick a winner :)</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/9-little-known-ways-to-decrease-your-refund-r\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/9-little-known-ways-to-decrease-your-refund-r#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: 9 Little Known Ways to Decrease Your Refund Rate... Forever
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/9-little-known-ways-to-decrease-your-refund-r
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/kajabi-product-update-march-edition
+    "@_rails_html_safe": false
+  published: 2011-03-23 21:48:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Kajab-march-product-update\" height=\"500\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-23/gCekBqidiGmbuCJHriJohyuGEluxCAvEwkaxfdrgblDlyzBDBeHtCgBIfmzC/kajab-march-product-update.jpg.scaled600.jpg\" width=\"500\" />\n\
+      </div>\n\
+      </p>\n\
+      <p>Dear current Warlocks (Kajabi customers) and potential Warlocks (non-customers):</p>\n\
+      <p>The month of March has been one filled with ultra-successful product launches, <a href=\"http://blog.kajabi.com/announcing-the-kajabi-makeover-contest-winner\" target=\"_blank\">cool contests</a>, drunkenness (St. Patty's) and something both Kajabi and Charlie Sheen have in common: <strong>Winning</strong>.</p>\n\
+      <p>Due primarily to our unshakeable habit of winning, we made Kajabi even more awesome in the month of March.</p>\n\
+      <p>Below you'll find our latest features that will empower you to continue your online marketing domination.</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">New Features:</span></strong></p>\n\
+      <p><strong>A/B Testing Integration</strong><br />In our <a href=\"http://feedback.kajabi.com\" target=\"_blank\">feedback forum</a>, our #2 request was A/B testing. Your wish is our command. Kajabi now supports the ability to enter code immediately before the &lt;head&gt; tag, which most A/B testing services required. Now you can completely optimize your Kajabi marketing funnels! For A/B testing services, we suggest Optimizely (<a href=\"http://optimize.ly/i0Dz6E\" target=\"_blank\">www.optimizely.com</a>) or Visual Website Optimizer (<a href=\"http://visualwebsiteoptimizer.com/?partner=kajabi\" target=\"_blank\">www.visualwebsiteoptimizer.com</a>). After signing up with one of them, you will be provided with a snippet of code. Simply copy the code and paste it in the new field within Kajabi.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/yGyekIaGneJveojzhuGmvnondadHewBBirsuyJGuFnfJnwAJrvHbmiqiJJyx/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiABSplitTesting.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-29/EaoxzIsGlvGJDxefmJjiEqvjseICojljikHddmcCnlpxsiFjJzboDhrfsrJw/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiSplitTestOptimizely.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>New shorter funnel URLs </strong><br />Old funnel URLs looked like &ldquo;/squeeze_pages/1234&rdquo; or &ldquo;/sales_pages/535&rdquo; but now they are shorter and take out the sensitive words like &ldquo;squeeze&rdquo; or &ldquo;sales&rdquo;.&nbsp; New URLs look like &ldquo;/sq/1234&rdquo; or &ldquo;/sp/535&rdquo;.&nbsp; Old-style URLs will still work, too.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/lrhkrdhfbcoaDfowDADDifHHweFojuixsoiHiFqdaBIddtHGbufCeCrebDkf/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiShorterFunnelURLs.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      <p /><strong>Subscription plans can now optionally expire</strong><br />This has been a majorly requested feature. You can set up a subscription plan to expire in 2 weeks, for example, and after the two weeks, the user will not be able to log in, but will instead see a message stating his account has expired.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/DGJytwJfcrzBufyEJEbemIIatwlgfjGEzzjyjkIDmlzEhCggHJkqufpeomva/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiSubscriptionExpire.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      <p /><strong>Custom tracking code improvements</strong><br />In squeeze pages, funnel events, and sales pages, there is a new and improved &ldquo;custom tracking code&rdquo; section.&nbsp; It is broken into tabs and you can select where you want the custom code to appear -- either in the document head, the top of the body, or the bottom of the body. This ensures that your tracking code ends up in the right spot.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/pJfpmtHshfoHjIwznulpenIzpiootqaAcbHgzhfaaiBrovkpCAnrFamFdvfa/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiCustomTrackingCode.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      <p /><strong>Portal dashboard improvements</strong><br />You can now customize several more aspects of your portal&rsquo;s dashboard.&nbsp; You can change the name of the actual &ldquo;Dashboard&rdquo; tab, and also customize the title and subtitle which are displayed at the top of the dashboard.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/CjIJGqyhtbDsyaGIzxEjkIsrCyIipngpaFJnJqnaHzgrlfjmjiiDnvhvuHjj/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiCustomDashboard.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      <p /><strong>Two new dashboard templates</strong><br />There are two new dashboard types available now as well.&nbsp; &ldquo;Post List&rdquo; will turn your portal&rsquo;s dashboard into a nice list view including thumbnails of all the &ldquo;featured&rdquo; posts across your portal.&nbsp; &ldquo;Post Detail&rdquo; will display the guts of a single post right on your portal&rsquo;s dashboard.&nbsp; This means you can display a video and have comments right on your dashboard if you&rsquo;d like.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/xsgryjDedmoGDhCdyuAupfxzGrvjItnjkrGjCGEpBxxyfFrkHweDJwbnjyza/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiDashboardTemplates.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      <p /><strong>Kajabi affiliate link in the footer</strong><br />If you are a Kajabi affiliate, you now have the option of embedding your affiliate token in the &ldquo;Powered by Kajabi&rdquo; link at the bottom of your pages.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/tjaIDcyfnGqjBklsAIkzIbbeyyoxeJBIatylmxdsIFiuaICgAoBigcBEnoxg/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiFooterAffiliateToken.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      <p /><strong>Embedded offers </strong><br />The &ldquo;Edit Offer&rdquo; screen now displays an &ldquo;Embedded Link&rdquo; which is code you can cut-and-paste to other sites and blogs.&nbsp; It makes it possible to display your offer box anywhere you want.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/vsrjCtcrgxcBcyJIBowbBnuwHFuFGzHwzFhAEIpkinhlCECeEpftdkzCgInb/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiEmbeddedOfferLink.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>Security for your membership portal</strong><br />In your project settings you can select if you want to prevent users from logging in with more than one browser at the same time. &nbsp;This is a great deterrent for people sharing their username/password to a project.</p>\n\
+      <p><strong><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/dxDpjwzFxqaeaciobqrdtyEuhJncHmCaGGoFdpdEmhEGxeAmuhhDktgGHCbt/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiMultipleSessionsOff.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </strong></p>\n\
+      <p><strong>Comment search</strong><br />Admins can now search comments from the admin interface.</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/utfIIvDoysGsdgdblhIIAawauuvGangEsqHunlmIxdvFoCrgAfzfAqyJatdg/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiCommentSearch.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>New Header Backgrounds</strong><br />Lots of new header background choices for the K1 theme!</p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-24/FFGCExdstdboyBlnsjGiHJHCBekuovskGqBhvrnJhfbtuBqJCrjAapIEbsea/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>KajabiK1NewBackgrounds.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <div>\n\
+      <p><strong>Lots of visual improvements to the K2 theme</strong></p>\n\
+      <div><strong>Bug fix</strong></div>\n\
+      </div>\n\
+      <div>Fixed bug causing some users to not be able to save or create a standby page.</div>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">Future:</span></strong></p>\n\
+      <p>Like these new features? Please let us know anything else you'd like at <a href=\"http://feedback.kajabi.com/forums/94971-kajabi-feature-requests\" target=\"_blank\">feedback.kajabi.com</a></p>\n\
+      <p>We thank you from the bottom of our hearts, and from the hearts of our bottom.</p>\n\
+      <p>To your winning,</p>\n\
+      <p>- The Kajabi Team</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/kajabi-product-update-march-edition#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: Kajabi Product Update March Edition!
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/kajabi-product-update-march-edition
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/announcing-the-kajabi-makeover-contest-winner
+    "@_rails_html_safe": false
+  published: 2011-03-16 22:32:12 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Makeover-update\" height=\"232\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/cyzfDrmIxqvfAmpwvcJjaCbIkFcydyEHixenGbEflCjdJAFlFDcmnaanHrkp/Makeover-Update.jpg.scaled600.jpg\" width=\"500\" />\n\
+      </div>\n\
+      </p>\n\
+      <p><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\">The results are in for the<a href=\"http://blog.kajabi.com/kajabi-makeover-contest-for-customers-only\" target=\"_blank\"> Kajabi Makeover Contest!</a><p />  After over fifty submissions and sifting through dozens of amazing Kajabi sites, <strong>we decided to choose three winners instead of one!</strong><p />  <span style=\"font-size: 16px;\"><strong>Behold, your Kajabi Makeover Winners Below:</strong></span><span style=\"font-size: 17px;\"><strong></strong></span><span style=\"font-size: 16px;\"><strong></strong></span><span style=\"font-size: 15px;\"><strong></strong></span><strong></strong><p />  <strong>1) Grant Davies Champion Workshop</strong><br /> </span></span>Grant Davies is the co-Director of Leading Australian  Dance studio RGDance. Along with his sister Rebecca, Grant has unlocked new&nbsp; secrets in coaching dancers that have led them to achieve brilliant  results (Make them feel like stars, Have their Teachers Praise them and  Make their Parents proud).</p>\n\
+      <p>Grant's Kajabi Portal Before:</p>\n\
+      <p><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/imEnermnkdadkyBhcevhhtybmojqvggBdendCheGyvCdFzEtzDleGJhertmw/champion-workshop.png.scaled1000.png\"><img alt=\"Champion-workshop\" height=\"293\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/imEnermnkdadkyBhcevhhtybmojqvggBdendCheGyvCdFzEtzDleGJhertmw/champion-workshop.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      Grant's Kajabi Portal After:</span></span><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><strong></strong></span></span></p>\n\
+      <p><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/xDlepucEcCjmnpgxBlJptAxErqixzFwpuyDfBbFmDrqJdrghADlJwlIFglrf/champion-workshop-after.png.scaled1000.png\"><img alt=\"Champion-workshop-after\" height=\"367\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/xDlepucEcCjmnpgxBlJptAxErqixzFwpuyDfBbFmDrqJdrghADlJwlIFglrf/champion-workshop-after.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br /> <strong>2) Jairek Robbins 90 Day Video Challenge</strong><br /> Jairek Robbin's \"Performance Coaching System&rdquo; has helped hundreds of people become more healthy, full of energy, have unstoppable confidence, create successful businesses and develop passionate relationships. (<a href=\"http://www.spike.com/video-clips/6ed5zu/shallow-hal-im-gonna-do-you-a-great-favor\" target=\"_blank\">Yes, he's related to the academy award winning actor in Shallow Hal</a>)<p /> Jairek's Kajabi Portal Before:</span></span><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><strong></strong></span></span></p>\n\
+      <p><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/tHzIfomjbevvyuFlivwoiCItqbmbyfwzzEanECzajgxhDzGkaGGxAaItcBmt/90-day-video-coaching.png.scaled1000.png\"><img alt=\"90-day-video-coaching\" height=\"524\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/tHzIfomjbevvyuFlivwoiCItqbmbyfwzzEanECzajgxhDzGkaGGxAaItcBmt/90-day-video-coaching.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      Jairek's Kajabi Portal After:</span></span></p>\n\
+      <p><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/vkApmtdksqfivitcbEhzIkvwezGyelgxJlwmjydzenumAtthorvmIxkuHJlf/video-coaching-mockup.png.scaled1000.png\"><img alt=\"Video-coaching-mockup\" height=\"318\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/vkApmtdksqfivitcbEhzIkvwezGyelgxJlwmjydzenumAtthorvmIxkuHJlf/video-coaching-mockup.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </span></span><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><strong></strong></span></span><br /><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"> <br /> <strong>3) Rob Manning's The Correct Golf Set-up</strong><br /> Rob Manning's course, The Correct Golf Set-up, shows you step-by-step how to take your golf game to the next level with simple adjustments to your game. <p /> Manning's Kajabi Portal Before:</span></span></p>\n\
+      <p><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/jDAGIxkjDDBiICvuijbtFkftigHfcfGsjHiCIAalzjhGIsdFtnbodBfJFoax/correct-golf-setup.png.scaled1000.png\"><img alt=\"Correct-golf-setup\" height=\"466\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/jDAGIxkjDDBiICvuijbtFkftigHfcfGsjHiCIAalzjhGIsdFtnbodBfJFoax/correct-golf-setup.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      Manning's Kajabi Portal After:</span></span></p>\n\
+      <p><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"><strong><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/vhbxEnyBGwBmiyzGIjxAlJEJAdzJrGaqayDhmapjpdJzgvFflrhxsFDlEwAs/golf-setup.png.scaled1000.png\"><img alt=\"Golf-setup\" height=\"465\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-16/vhbxEnyBGwBmiyzGIjxAlJEJAdzJrGaqayDhmapjpdJzgvFflrhxsFDlEwAs/golf-setup.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </strong></span></span><br /><span style=\"color: #3b393b;\"><span style=\"font-size: 14px;\"> <br /> We may do another one of these contests, so let us know how you liked the contest by <a href=\"http://feedback.kajabi.com/forums/96303-flight-lounge-feedback\" target=\"_blank\">entering your feedback here</a>!<br /></span></span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/announcing-the-kajabi-makeover-contest-winner\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/announcing-the-kajabi-makeover-contest-winner#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: Announcing the Kajabi Makeover Contest Winners!
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/announcing-the-kajabi-makeover-contest-winner
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/the-no-nonsense-guide-to-using-the-right-colo
+    "@_rails_html_safe": false
+  published: 2011-03-07 23:56:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><em>\"I'll believe it when I see it.\"</em><p />We've heard the phrase a thousand times. And there's good reason for it.<p /><strong>Research reveals that 93% of our decision-making derives from how something looks.</strong><strong> And of that group, 85% say that \"<span style=\"color: #008000;\">c<span style=\"color: #ff0000;\">o</span><span style=\"color: #0000ff;\">l</span><span style=\"color: #ffcc00;\">o</span><span style=\"color: #ff6600;\">r</span></span>\" is the reason they bought a particular product over a competing product </strong>(Yes, we provide sources below. But we're 97.23% sure you should believe us anyways).<p />Though one should <a href=\"http://blog.kajabi.com/the-3-part-landing-page-formula-that-always-w\">keep landing pages simple</a>, there's proven guidelines that you should not stray from. <p />Instead of babbling about the psychological effects color, we decided to provide an actionable guide with examples that you can put into practice immediately. If you don't handle the design of your website, then by all means feel free to save this chart for future use</p>\n\
+      <p><a href=\"http://kajabi-assets.s3.amazonaws.com/blog/Color-Post.jpg\">Here's a link to download the chart</a>.</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>The No-Nonsense Guide to Using the Right Colors</strong></span>:</p>\n\
+      <p>Enjoy!</p>\n\
+      <p><img src=\"http://kajabi-assets.s3.amazonaws.com/blog/Color-Post.jpg\" alt=\"\" /></p>\n\
+      <p>&nbsp;</p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"color: #333333; font-size: small;\">Sources:</span></p>\n\
+      <p><span style=\"color: #333333; font-size: small;\">\"The Effects of Store Environment on Shopping Behaviors: A Critical Review,\" LAM YIN, SHUN</span><br /><span style=\"color: #333333; font-size: small;\">\"The Psychology of Color in Marketing\" CAMBELL, JUNE. </span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/the-no-nonsense-guide-to-using-the-right-colo\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/the-no-nonsense-guide-to-using-the-right-colo#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: The No-Nonsense Guide to Using the Right Colors
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/the-no-nonsense-guide-to-using-the-right-colo
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/please-do-not-buy-product-launch-formula
+    "@_rails_html_safe": false
+  published: 2011-03-03 19:46:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p>Yes, we&rsquo;re dead serious.<p />The reason all traces back to the misconception surrounding the concept of &ldquo;knowledge.&rdquo;<p />We&rsquo;ve all heard the phrase: &ldquo;Knowledge is power.&rdquo; (And of course, we associate power with success).<p />Yet, this is 100% false.<p />Knowledge is not power.<p />For the world finds itself overflowed with highly educated people who remain broke. And right now, as you&rsquo;re reading this there&rsquo;s someone sunbathing on his or her own yacht as they thank themselves for dropping out of high school.<p />But real-life examples of successful dropouts aren&rsquo;t what exposes the myth that &ldquo;knowledge is power.&rdquo;<p />A French dude named Gaspard-Gustave de Coriolis did in 1889 (you&rsquo;ll see how in a second).<p />But first, let&rsquo;s dive into fundamental physics.<p /><span style=\"font-size: x-large;\"><strong>Physics 101:</strong></span><br />In physics, a fundamental lesson concerns itself with power.<p />Defined, &ldquo;power&rdquo; is the rate at which energy is converted. And the lesson continues on to define two forms of energy:<p /><strong>1. Potential Energy</strong> (which is the energy stored in a system -- like your mind or body)<br /><strong>2. Kinetic Energy</strong> (which is energy driven by action).<p />In physics, potential energy doesn&rsquo;t equate to power; it&rsquo;s merely potential power.<p />The true form of power that everyone seeks is &ldquo;Kinetic&rdquo; power. A concept that French physicist Gaspard-Gustave de Coriolis uncovered in 1889. The word &ldquo;kinetic&rdquo; stems from the Greek word kinesis, which means motion. &ldquo;Kinesis&rdquo; is the same root as in the word cinema (referring to motion pictures).<p />So basically, true power (kinetic energy) is driven by action or <strong>application</strong>.<p />Thus, Knowledge is really &ldquo;potential energy&rdquo; (or &ldquo;potential power&rdquo;).<p />Whenever you hear anyone use the phrase in the future, kindly guide them through that physics lesson. If they look at you like you&rsquo;re insane, take it as a compliment (and try not to drool or talk like Charlie Sheen).<p /><span style=\"font-size: x-large;\"><strong>Origins of Kajabi:</strong></span><p />In October 2009, we founded Kajabi with the vision of helping people sell their products online using a powerful formula. At the time, the formula was fairly new, but becoming extremely popular for its profound results. The formula was called: &ldquo;The Product Launch Formula.&rdquo; Basically, the method involved educating people over a 1-2 week time period, followed by selling the course to a limited number of people. These &ldquo;launch&rdquo; events only took place once per year. The formula generates millions of dollars in only a matter of days. And it works year after year.<br />&nbsp;<br />Even more shocking is that these launches could have generated even more money. Launches close down with people on the checkout page frantically trying to enter their credit card information. Yet, when they click the final \"order\" button, they're sometimes presented with a message stating that the course is full. Yes, thousands of people frequently have to wait until the following year to get the course.<br />&nbsp;<br />The concept was founded by a marketer out of Durango, Colorado named Jeff Walker. In proving out his formula, he created a course that taught the formula. In fitting fashion, he named the course, &ldquo;Product Launch Formula.&rdquo;<p />His course changed online marketing forever.<p />Using the formula, people like John Reese, Frank Kern, Andy Jenkins and others generated millions of dollars in just a few days using Jeff&rsquo;s principles.<p />His course not only changed the internet marketing industry, it created a new industry: The Product Launch Industry.<p />Jeff Walker continued teaching the course to a private few each year. And with each passing year, his course got better and better. And ironically, launches became less stressful and more stable. In the early days, the biggest problem with the product launch formula was that the technology available at the time frequently failed to support the formula. Servers were flooded with so many people trying to get access to the course that things would break. Servers would go down, and millions of dollars were lost.<p />There was no reliable solution on the market that catered specifically to Jeff's powerful formula. Well, no solution, until Kajabi entered the game, that is.<p />Once Jeff took his powerful formula and combined it with the Kajabi platform, the game changed yet again. Today, thousands of people are using Kajabi to apply the Product Launch Formula and have generate over $25,000,000 for themselves or their businesses.<p /><span style=\"font-size: x-large;\"><strong>So why don&rsquo;t we want you to buy Product Launch Formula?</strong></span><p />Ok, so we&rsquo;ve left this question dangling over your head for long enough (and if you&rsquo;ve scrolled down here without reading the stuff above, stop. Stop it. Meanie.<p />The reason we don&rsquo;t want you to &ldquo;buy&rdquo; PLF is pretty simple.<p />Without question, PLF is the best course ever created about Product Launches. <strong>Jeff Walker is to Product Launches what George Foreman is to the George Foreman Grill.</strong> We wouldn&rsquo;t be talking about either product if the person backing it wasn&rsquo;t involved.<p />But the problem with buying PLF is that many people simply buy a course and don&rsquo;t apply it. They simply believe that acquiring &ldquo;Potential Power&rdquo; (Product Launch Formula), will make them succeed online.<p />They internally tell themselves, &ldquo;If I buy this course, I&rsquo;ll succeed in marketing online. I'll make the money my wife will be proud of, and can finally quit my boring job.\" Yet, a few months after the course ends, these same people find that nothing has changed. They continue on with their lives looking for some other &ldquo;Potential Power.&rdquo; They may buy another course, or move onto material items like cars, clothes, sex, video games, parties, drugs, alcohol--or whatever fix interests them at the time. It&rsquo;s a vicious cycle that can result in a life of wasted effort and disappointment. Yet, this cycle is one that can be easily avoided, and one in which we desperately want to help you avoid.<p /><strong>Bottom line:</strong> People go through their life buying &ldquo;Potential Power,&rdquo; become let down, and repeat the cycle over and over.<p />Whether the &ldquo;Potential Power&rdquo; be a college degree, masters program or a course, &ldquo;Potential Power&rdquo; alone will not result in success.<p /><strong>Success and physics share the same formula:</strong><p /><span style=\"font-size: medium;\"><em>(P)*(A) = K, which leads to Success</em></span><p />In physics:<p />P = Potential Energy<br />A = Application<br />K = Kinetic Energy<p />In the world of product launches, the variables share the same meaning, but have a different name.<p />If you look at every major successful product launch formula recently, the formula is also the same. You name it: Jeff Walker, Andy Jenkins, Frank Kern, Amish Shah and other big names use this secret formula for their launch.<p />Here it is again:<p /><em><span style=\"font-size: medium;\">(P)*(A) = K, which leads to Success</span></em><p />In Product Launches:<p />P = Product Launch Formula<br />A = Application<br />K = Kajabi<p />Yet not all those who succeed online require either P or K. But, one does find that the top performers in the Product Launch market use both P and K.<p /><strong>So what&rsquo;s the secret to succeeding online?</strong><p />One letter: A.<p />Yes, A.<p />In the formula above, A stands for Application. The difference between the person who succeeds online and the person who fails online is application. Those who apply Potential Energy with Action and use a tool like Kajabi, will almost always find success online.<p />Whether you get Product Launch Formula or not is entirely up to you. Yet, we believe in Walker's formula so much so that we&rsquo;ve devoted our entire lives to creating the technology to support the formula.<p />Yet all good things must come to an end.<p />Today stands as the last day that Jeff Walker will be teaching the Product Launch Formula in its current form. There's no guarantee that he'll teach the formula again.<p /><strong>Let&rsquo;s think about that again:</strong><p />Today, March 3, 2011 is quite possibly the last day Jeff Walker will be teaching his course in the original form. Tonight at Midnight (Pacific Time), the door will be closed.<p />It&rsquo;s fine if you don&rsquo;t have the time to take his course.<p />But all we ask is one thing of you:<p /><span style=\"font-size: medium;\"><strong>Please don&rsquo;t &ldquo;buy&rdquo; the Product Launch Formula, instead, &ldquo;Apply&rdquo; the Product Launch Formula.</strong></span><p />If you do, we&rsquo;ll throw in a Free copy of Kajabi for 12 months for you to use (yes, we&rsquo;ll give you &ldquo;K&rdquo; for one year for Free).<p />Ready? Let&rsquo;s do it!<p /><a href=\"http://www.productlaunchformula.com/?18462\" target=\"_self\"><span style=\"color: #0000ff;\"><strong><span style=\"font-size: x-large;\">Click here to <span style=\"text-decoration: line-through;\">Buy</span> &ldquo;Apply&rdquo; Product Launch Formula</span></strong></span></a><p />After you&rsquo;re done checking out, send your receipt to <a href=\"mailto:info@kajabi.com\">info@kajabi.com</a> and we&rsquo;ll set you up with a Free year of Kajabi.<p />We look forward to seeing you <strong>applying</strong> PLF, a course that will change your business forever!<br />&nbsp;<br />Peace,<p />- The Kajabi Team</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/please-do-not-buy-product-launch-formula\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/please-do-not-buy-product-launch-formula#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: Please do not buy Product Launch Formula
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/please-do-not-buy-product-launch-formula
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/new-kajabi-theme-released
+    "@_rails_html_safe": false
+  published: 2011-03-02 19:11:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p>We released a new theme called, \"<strong>Paperclip</strong>.\"<p /><strong>Here's a video on how to set it up:</strong><p /><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/new-kajabi-theme-released\"><img alt=\"\" src=\"http://posterous.com/getfile/video.posterous.com/temp-2011-03-02/EkdJfiqlwvAzkxrqrkrdJGieHqezGBDtCjGHiIekqFdxiichGqtGboJebsGl/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>Paperclip.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/new-kajabi-theme-released\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      <p />Hope you enjoy it!</p>\n\
+      <p>This theme will look familiar to you. It's the same exact theme Jeff  Walker is using for Product Launch Formula right now. Yes, you can now  have the same exact theme in the click of a button.</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-02/abjmAndcxdhniqblABecmIGshxDxkuArtexlEgJzxbibsBdBigEuvertydkI/paperclip-template.png.scaled1000.png\"><img alt=\"Paperclip-template\" height=\"451\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-03-02/abjmAndcxdhniqblABecmIGshxDxkuArtexlEgJzxbibsBdBigEuvertydkI/paperclip-template.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <p />As you know, Kajabi allows people to launch products based on the philosophy of the Product Launch Formula (PLF). <strong>The founder of this philosophy (Jeff Walker), is offering his course for the very last time right now</strong>. It will be taken off the market shortly (as in a day). <p />His course inspired us to create Kajabi in the first place. We believe in it so much that we're offering a Kajabi Pro account for Free for 6 months if you purchase his course. <p /><span style=\"font-size: small;\"><strong>Step 1: </strong></span></p>\n\
+      <p><span style=\"font-size: large;\"><strong><a href=\"http://www.productlaunchformula.com/?18462\" target=\"_self\">Click here to check out his course</a></strong></span></p>\n\
+      <p><strong>Step 2: </strong></p>\n\
+      <p>Send us your receipt to <a href=\"mailto:info@kajabi.com\">info@kajabi.com</a> with the subject line \"I wanna krush launches with PLF and kajabi!\"</p>\n\
+      <p><strong>Step 3: </strong></p>\n\
+      <p style=\"text-align: left;\">You get Kajabi Pro for 6 months for Free Immediately! Let's go!</p>\n\
+      <p style=\"text-align: center;\"><a href=\"http://www.productlaunchformula.com/?18462\"><img src=\"http://kajabi-assets.s3.amazonaws.com/blog/6months-free-banner.png\" alt=\"\" /></a></p>\n\
+      <p>&nbsp;</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/new-kajabi-theme-released\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/new-kajabi-theme-released#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: New Kajabi Theme Released!
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/new-kajabi-theme-released
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/kajabi-makeover-contest-for-customers-only
+    "@_rails_html_safe": false
+  published: 2011-02-23 00:24:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Jpeg\" height=\"758\" src=\"http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-02-22/qxapJtuJmBzomlxCqxDiuaHqCbobhIyGkyycgwwkrfdJcjfxoDFqgizkuizF/jpeg.jpeg.scaled600.jpg\" width=\"555\" />\n\
+      </div>\n\
+      </p>\n\
+      <p>Kajabi Customers --</p>\n\
+      <p>We'd like to announce a very special contest, \"<span style=\"color: #993366;\"><strong>The Kajabi Makeover</strong></span>\"</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Here's the deal: </strong></span></p>\n\
+      <p>Submit your current Kajabi site and if chosen, we'll give your site a complete design makeover.</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Details: </strong></span></p>\n\
+      <p>Send the following three pieces of information to <a href=\"mailto:contests@kajabi.com\">contests@kajabi.com</a> to enter:</p>\n\
+      <p><span style=\"color: #000000;\"><strong>[ALL OF THE ITEMS BELOW ARE REQUIRED TO ENTER] </strong></span></p>\n\
+      <p>1) A picture of your current Kajabi membership site.</p>\n\
+      <p>2) A link to your Kajabi membership site.</p>\n\
+      <p>3) Subject: \"Kajabi Makeover Contestant - [Your Site Name]\"</p>\n\
+      <p><span style=\"font-size: medium;\"><strong>Deadline</strong></span>:</p>\n\
+      <p>Get your submission in before February 28th, 2011!</p>\n\
+      <p>The sooner the better!</p>\n\
+      <p>Let's have a great week,</p>\n\
+      <p><em> - The Kajabi Team</em></p>\n\
+      <p><span style=\"font-size: large;\"><strong>Here's a recent makeover we did:</strong></span></p>\n\
+      <p><span style=\"font-size: x-large;\"><strong><em></em></strong></span></p>\n\
+      <p><span style=\"font-size: small;\"><strong><em>Hines Ward's Site Before:<div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile5.posterous.com/getfile/files.posterous.com/temp-2011-02-23/AagxqjhJEHIAxauhstnetfhhvpBrcjCGgsCdkDiHnrrxbJDiFHwcrqcpfstf/hines-ward-before.png.scaled1000.png\"><img alt=\"Hines-ward-before\" height=\"87\" src=\"http://getfile7.posterous.com/getfile/files.posterous.com/temp-2011-02-23/AagxqjhJEHIAxauhstnetfhhvpBrcjCGgsCdkDiHnrrxbJDiFHwcrqcpfstf/hines-ward-before.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      Hines Ward's Site After:</em></strong></span></p>\n\
+      <p><span style=\"font-size: x-large;\"><strong><em><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-23/dsyqqkzebktdfebhInpeyeEnyjgFAAbjvmFnhgAfgkbBtFxquipFifhBAecr/hines-ward-2.png.scaled1000.png\"><img alt=\"Hines-ward-2\" height=\"98\" src=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-23/dsyqqkzebktdfebhInpeyeEnyjgFAAbjvmFnhgAfgkbBtFxquipFifhBAecr/hines-ward-2.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br /></em></strong></span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/kajabi-makeover-contest-for-customers-only\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/kajabi-makeover-contest-for-customers-only#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: Kajabi Makeover Contest! (For Customers Only)
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/kajabi-makeover-contest-for-customers-only
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/new-kajabi-features-february-2011-product-upd
+    "@_rails_html_safe": false
+  published: 2011-02-17 00:28:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p>We updated Kajabi yesterday with some nifty features. Those of you with Kajabi accounts probably noticed the changes. Here they are laid out for you:</p>\n\
+      <p><span style=\"text-decoration: underline;\"><strong>(If you want to vote on more features, head over to <a href=\"http://feedback.kajabi.com/forums/94971-kajabi-feature-requests\">our feedback forum</a>!)</strong></span></p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>Customize Tweet and Facebook Share Messages</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/EDzhyJEhceutypziIxFuGIEIcDEHeiacCAxAnrpmDjmcHJpkjccCtHcEcFwr/Screen_shot_2011-02-16_at_4.03.23_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-16_at_4\" height=\"288\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/EDzhyJEhceutypziIxFuGIEIcDEHeiacCAxAnrpmDjmcHJpkjccCtHcEcFwr/Screen_shot_2011-02-16_at_4.03.23_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br />You can now customize the default Twitter share message for funnel events. You can also edit the title of the Facebook share text.</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>Offers now look even sexier</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/vydxFGlDhfptAgvxgHhvoExwJjagCFjEHrqFczbjmkrjimzqkBdCnDnvswzx/Screen_shot_2011-02-16_at_4.10.32_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-16_at_4\" height=\"443\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/vydxFGlDhfptAgvxgHhvoExwJjagCFjEHrqFczbjmkrjimzqkBdCnDnvswzx/Screen_shot_2011-02-16_at_4.10.32_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br />Cleaned up the display of offers.&nbsp; Now they are wider and stacked so it looks great with just a single offer or many<p /><span style=\"font-size: x-large;\"><strong>Nifty forms of payment feature</strong></span><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/DkezAtxafDvoEgzjmksczDqeuooedAHHhBtDgHexqBpCyxEJuzdejpzppJvz/Screen_shot_2011-02-16_at_4.14.13_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-16_at_4\" height=\"463\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/DkezAtxafDvoEgzjmksczDqeuooedAHHhBtDgHexqBpCyxEJuzdejpzppJvz/Screen_shot_2011-02-16_at_4.14.13_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>You now have the ability to specify which forms of payment to display the icon for when displaying an offer.&nbsp; You can mix and match Visa, MC, Amex, Discover, and Paypal</p>\n\
+      <p><br /><span style=\"font-size: x-large;\"><strong>Perpetual funnels just got way smarter and easier to use</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/pClaDmuHedfvtcFusuakobHFFmpGGJsyoGsDcHBxClIsnGlqvdrfHwABuehI/Screen_shot_2011-02-16_at_4.17.40_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-16_at_4\" height=\"134\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/pClaDmuHedfvtcFusuakobHFFmpGGJsyoGsDcHBxClIsnGlqvdrfHwABuehI/Screen_shot_2011-02-16_at_4.17.40_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br />When you send traffic to a specific funnel event in a <a href=\"http://www.productlaunchformula.com/cs/?18462\" target=\"_blank\">perpetual funne</a><a href=\"http://www.productlaunchformula.com/cs/?18462\">l,</a> Kajabi will now remember which event the visitor is on. Thus, if your visitor navigates backward to past events, they can always go back to the event which is current to them.&nbsp; Also, the perpetual funnel feature now respects the \"Show Placeholder\" feature of the events, so if a user visits Event #2, for example, he or she can see that there are 2 more events \"Coming Soon\".&nbsp; This makes it seem even more like he is participating in a live time-sensitive launch.</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>SPEEEEED!</strong></span></p>\n\
+      <p>Major performance improvements throughout the app.&nbsp; It should seem much snappier.<p /><span style=\"font-size: x-large;\"><strong>More Icons:</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/IozJqwopBDotdAxupwHzebldCqujElbdbxfBIlbruobocfxfahwgeArHqwBA/Screen_shot_2011-02-16_at_4.27.20_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-16_at_4\" height=\"314\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/IozJqwopBDotdAxupwHzebldCqujElbdbxfBIlbruobocfxfahwgeArHqwBA/Screen_shot_2011-02-16_at_4.27.20_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br />Added more file type icons for documents (MP4, PNG, GIF, PPT, TXT)</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>Design touchup:</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Screen_shot_2011-02-16_at_4\" height=\"155\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/BDcJEhDjgCqdldqhqpxxzJsenjJwfAfxtvCdcplumxpHiIuDhDCaDHkxtmow/Screen_shot_2011-02-16_at_4.21.41_PM.png.scaled600.png\" width=\"164\" />\n\
+      </div>\n\
+      <br />Fixed some style issues pertaining to the K2 portal header vs the funnel header having different widths<p /><span style=\"font-size: x-large;\"><strong>Wandering Buttons No Longer Wander:</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Screen_shot_2011-02-16_at_4\" height=\"703\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/ApxtkGumHaBhBDkmGfvEwkvmHoiJsreCcauvfqEhEkjpptihajskExmjGymn/Screen_shot_2011-02-16_at_4.23.12_PM.png.scaled600.png\" width=\"475\" />\n\
+      </div>\n\
+      </p>\n\
+      <p>Fixed style issue which caused some time buttons to not find themselves centered. <p /><span style=\"font-size: x-large;\"><strong>Moving your videos to Kajabi is now amazingly easy!<br /></strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/GkgimCatEjJgpEEqmwxEbltlflBEvfIqrxaJCrmzBshvdusnAdHHlfcsfhcc/Screen_shot_2011-02-16_at_4.26.06_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-16_at_4\" height=\"230\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/GkgimCatEjJgpEEqmwxEbltlflBEvfIqrxaJCrmzBshvdusnAdHHlfcsfhcc/Screen_shot_2011-02-16_at_4.26.06_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br />In the \"Add media\" section for a post, squeeze page, sales page, or funnel event, you now have the option of specifying the URL of an externally hosted video.&nbsp; Doing this will cause that video to be pulled into Kajabi just as if you uploaded it yourself.&nbsp; Automatic thumbnails will be created and if your account is Krunch-enabled, it will be encoded to the proper formats for browser and mobile viewing.&nbsp; This new feature is especially helpful if all of your video content is already available on the web (like on Amazon S3 for example).&nbsp; It saves you from needing to download the content to your computer then re-uploading to Kajabi.</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>New Custom Tracking</strong></span><span style=\"font-size: x-large;\"><strong> Code</strong></span><span style=\"font-size: x-large;\"><strong> Field </strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Screen_shot_2011-02-16_at_4\" height=\"461\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-16/FqgBsJvomGabwAqGqEEHcBqrecyyoCjBjvIpruhlIIcGfhjxgufibEHdvwqx/Screen_shot_2011-02-16_at_4.49.08_PM.png.scaled600.png\" width=\"397\" />\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>This is for all you advanced folks: </strong>We added a new \"Custom Tracking Code\" field for squeeze pages and funnel events.&nbsp; Any HTML or Javascript you place in this field will be included before the closing BODY tag in the document.&nbsp; This is useful so you can include any tracking or custom code you would like.&nbsp; The really cool thing about it is that it recognizes special tokens in which will be replaced by dynamic values.<p />For example, you could include {{squeeze_page.name}} which would be replaced with the name of the squeeze page, or you could include {{params.my_custom_param}} which would be replaced with the value for a custom parameter named \"my_custom_param\" which was passed to the squeeze page.&nbsp; <em><strong>We will document all the special tokens and put them in our knowledge base.</strong></em></p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>Bulk User Import Improvement for Evergreen Launches</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-17/IdsBareBGFcEuyvEakwsxiuqIeGxDwhxuFlqontIppmFveGAiiqAtFweyFxF/bulk-user-import.png.scaled1000.png\"><img alt=\"Bulk-user-import\" height=\"454\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-17/IdsBareBGFcEuyvEakwsxiuqIeGxDwhxuFlqontIppmFveGAiiqAtFweyFxF/bulk-user-import.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>Bulk User Import has been expanded to include a column for join date.&nbsp; This is very useful for evergreen projects because you may want to adjust the join dates of various users.&nbsp; <em></em></p>\n\
+      <p><em><span style=\"font-size: x-large;\"><strong>That's all for now, folks!</strong></span><br /></em></p>\n\
+      <p>Hope you enjoy our updates. Stay tuned for more!</p>\n\
+      <p><span style=\"text-decoration: underline;\"><strong>(Remember, if you want to vote on more features, head over to&nbsp;<a href=\"http://feedback.kajabi.com/forums/94971-kajabi-feature-requests\">our feedback forum</a>!)</strong></span></p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/new-kajabi-features-february-2011-product-upd\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/new-kajabi-features-february-2011-product-upd#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: New Kajabi Features! (February 2011 Product Update)
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/new-kajabi-features-february-2011-product-upd
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/hines-ward-nfl-player-pittsburgh-steeler-inte
+    "@_rails_html_safe": false
+  published: 2011-02-15 23:45:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p>This past weekend, NFL football player, <a href=\"http://hinesward.com/\" target=\"_self\">Hines Ward</a>, launched a private fan site using Kajabi. In a matter of a few hours, he built an email list bigger than some of the most respected internet marketers. Mind you, internet marketers spend years building sizable lists; Hines Ward spent a few hours.</p>\n\
+      <p>In this article we'll explore precisely what Hines Ward and his team did to build a following so rapidly, and how you can apply these techniques to your marketing efforts. We call his formula, <em>\"The Hines Formula.\"</em></p>\n\
+      <p><strong>Important</strong>:</p>\n\
+      <p>It's easy for one to discredit Hines Ward's online marketing strategy with thoughts like, \"Well, it's easy for him, he's on TV.\" But please note that many famous athletes and celebrities have attempted marketing online, but ended up falling flat on their face. Possessing a loyal following is definitely a factor in Hines Ward's recent marketing success, but that only means that one should study his strategy even more. Most info product courses focus exclusively on marketing, when in fact, focus should be on methods that build fans. We'll outline specifically how you can build a following, how to build something for that following and how to market it.</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>Background</strong></span></p>\n\
+      <p>While none of us here at Kajabi are Pittsburgh Steelers fans, all of us know who Hines Ward is. And all of us are fans of his. You see, in football, the position of Wide Receiver is one filled with Prima Donna's. Receivers are lanky athletes who typically try to avoid contact. They're much more interested in blazing past defenders on deep routes than getting hit. They're the ones you see in reality shows on Bravo and paying fines for excessive touchdown celebrations. Yet, Hines Ward takes a different approach to playing the position. Instead of avoiding contact, Hines seeks it out.</p>\n\
+      <p>Here's what we mean (watch below):</p>\n\
+      <p><iframe src=\"http://www.youtube.com/embed/nbLNFiQSTyE\" frameborder=\"0\" height=\"390\" width=\"480\"></iframe></p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>\"The Hines Formula</strong></span><span style=\"font-size: x-large;\"><strong>\"</strong></span></p>\n\
+      <p>A couple weeks ago, Hines Ward was a bit down after the recent loss to  the Greenbay Packers in Superbowl XLV. Any other player would be  expected to lay low after the bitter end to a bone-grinding season. Yet, Hines had  a different idea. He decided to create a private fan club that  shares exclusive details of NFL life.</p>\n\
+      <p>In order for one to succeed online, they must enact a strategy or formula. Even if you're a famous athlete or celebrity, you can still go wrong and waste thousands of dollars on ineffective marketing events. \"<em><strong>The Hines Formula</strong></em>\" contains three ingredients: 1) Fans, 2) Something Valuable to Offer, 3) Effective Launch Strategy</p>\n\
+      <p>We'll dive into these three ingredients now:</p>\n\
+      <p><span style=\"font-size: large;\"><strong>1. Create Fans</strong></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\">Most internet marketers completely overlook the importance of creating fans. Instead, they study traffic-getting techniques like PPC, SEO or Display Advertising; when, in fact, the most effective traffic getting strategy is through the acquisition of fans. </span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\">Most people associate the concept of fans with athletes or movie stars. <strong>This is wrong. People like you attract fans every day, and we'll explain how.&nbsp;</strong> </span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\">You see, fans derive from one source: customers. In Hines Wards' case, customers are television viewers or those who purchases tickets to the game. <br /></span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\"><strong>Thus, a \"fan\" is simply a customer who was so entertained and satisfied with your work that they become fanatical</strong>. Your goal should be to make every single customer who works with you \"fanatical\" about your product or service. If you do so, you'll create fans.</span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\">Hines Ward creates fans through the manner in which he plays the game. Unlike many other receivers, he goes the extra mile to help his team win and entertain his customers. </span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\">Here's an example of what creates fans:<br /></span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\"><iframe src=\"http://www.youtube.com/embed/YXKApDM95Eg\" frameborder=\"0\" height=\"390\" width=\"640\"></iframe></span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\"><br /></span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\">Anyone can create fans. It's a two part process. You must <strong>a)</strong> do something that people value, and <strong>b)</strong>, do it in a<strong> </strong><em><strong>remarkable </strong></em><strong>way</strong>. And by \"remarkable,\" we mean that your customers should remark upon their experience with you to others. </span></span></p>\n\
+      <p><span style=\"font-size: large;\"><strong>2. Create Something Valuable to Offer Your Fans</strong></span></p>\n\
+      <p>The second thing you must do is create something valuable to offer your fans.</p>\n\
+      <p>Remember, your fans are past customers who enjoyed your work so much that they've become fanatical. What do fans want? They want to <em><strong>feel</strong></em> recognized for being fanatical. Read the previous sentence again and take notice of the word, \"feel.\" Fans are very emotionally impressed with anothers work. They're driven through emotion. Thus, in order to make them \"feel\" recognized you must personally connect with them.&nbsp;</p>\n\
+      <p>A great way to personally connect with fans is through sharing a part of your life that's closed off to the public. Or giving them an experience that isn't available to everyone else in the world. Instead of Hines Ward interacting with his fans through Facebook or Twitter, he built a private and exclusive community using Kajabi. In the community Hines shares anything from journal entries to his work-out routines.</p>\n\
+      <p>Because Hines is sharing this information in private, his fans feel a sense of connection to Hines Ward that nobody else can get.</p>\n\
+      <p>Here's the wording and outline Hines Ward used for his Kajabi site:</p>\n\
+      <blockquote>\n\
+      <p><em>I created this private community so that you will have private access to a more up close and personal Hines Ward. You will receive Breaking News and Exclusive information before anyone else. This is information that I will not be posting directly to Facebook or any other social media outlet. I really want to be able to narrow it all down and I only want my closest fans to be part of this. I also want you to provide me with feedback on how you would like to see this Club grow! What type of groups/forums would like to create? What type of content would you like to see? How can we all come together to create a community that sets the right example for our children?</em><p /><em>The next 2 years of my life are going to be exciting and I want you to take that ride with me. If you're interested in coming along, then now is the time to come aboard! As an additional perk, once you become a member; I will share with you my own personal Super Bowl week memories along with personal pictures. Then it's up to all of us from there. Let's build this together!</em><p /></p>\n\
+      </blockquote>\n\
+      <p><strong>Here's a preview of the private fan site he built using Kajabi:</strong></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/CxchltrEzhzkejbuesEhavrenGghgtlpuuegzBzICjvyysJedcEmnoDHsIDu/Screen_shot_2011-02-14_at_3.35.05_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-14_at_3\" height=\"454\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/CxchltrEzhzkejbuesEhavrenGghgtlpuuegzBzICjvyysJedcEmnoDHsIDu/Screen_shot_2011-02-14_at_3.35.05_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/yumtiAHqtwEACCqFjBzhiIgvhclbfEuBooefvbotruGfyGgGlBJnpccligAp/Screen_shot_2011-02-14_at_3.36.00_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-14_at_3\" height=\"612\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/yumtiAHqtwEACCqFjBzhiIgvhclbfEuBooefvbotruGfyGgGlBJnpccligAp/Screen_shot_2011-02-14_at_3.36.00_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/rggJhkcuzGDDGtIAcgryogDwClyHcbrBlykgFegevaayBnBlwlduHcEaFexA/Screen_shot_2011-02-14_at_3.34.39_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-14_at_3\" height=\"385\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/rggJhkcuzGDDGtIAcgryogDwClyHcbrBlykgFegevaayBnBlwlduHcEaFexA/Screen_shot_2011-02-14_at_3.34.39_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      <a href=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/JfvaiqvxiqljriDuiwufJDyvaxkHegeacwGwsIEDwtjFBrcfrefheelpydDa/Screen_shot_2011-02-14_at_3.36.53_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-14_at_3\" height=\"548\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/JfvaiqvxiqljriDuiwufJDyvaxkHegeacwGwsIEDwtjFBrcfrefheelpydDa/Screen_shot_2011-02-14_at_3.36.53_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      <div class='p_see_full_gallery'><a href=\"http://blog.kajabi.com/hines-ward-nfl-player-pittsburgh-steeler-inte\">See the full gallery on Posterous</a></div>\n\
+      </div>\n\
+      </p>\n\
+      <p>&nbsp;</p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\"><span style=\"font-size: x-large;\"><strong>3. Effectively Launch That Offer to Your Fans</strong></span><br /></span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\">Last, Hines Ward conducted a product launch much like what Jeff Walker teaches in his <a href=\"http://www.productlaunchformula.com/cs/?18462\" target=\"_blank\">Product Launch Course</a>.&nbsp; Here's an overview of his launch strategy below:<br /></span></span></p>\n\
+      <p><span style=\"font-size: large;\"><span style=\"font-size: small;\"><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Hines-ward-kajabi-launch\" height=\"4700\" src=\"http://posterous.com/getfile/files.posterous.com/temp-2011-02-15/nwskxrvCEcswmsmyIuEleloIhtdajwBsphnAoJDbwwuaupDDcIwtwweAcArG/Hines-Ward-Kajabi-Launch.png.scaled600.png\" width=\"600\" />\n\
+      </div>\n\
+      <br /></span></span></p>\n\
+      <p><strong><span style=\"font-size: x-large;\">Summary</span></strong></p>\n\
+      <p>The Hines Formula:</p>\n\
+      <p>1) Create fans through doing your job remarkably well</p>\n\
+      <p>2) Create an exclusive offer for your fans</p>\n\
+      <p>3) Effectively launch that offer to your fans</p>\n\
+      <p><strong>Update</strong>:</p>\n\
+      <p>Of course Hines Ward will have more success conducting Product Launches than those without fans. The point of this post is to study the way in which Hines Ward acquires fans, and how you can do so, too. For those unfamiliar with the nature of product launches, here's a link to THE product launch expert, Jeff Walker: <a href=\"http://www.productlaunchformula.com/cs/?18462\" target=\"_blank\">Product Launch Formula</a> (note: this is an affiliate link)</p>\n\
+      <p>&nbsp;</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/hines-ward-nfl-player-pittsburgh-steeler-inte\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/hines-ward-nfl-player-pittsburgh-steeler-inte#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: "Hines Ward: NFL Football Player, Pittsburgh Steeler, Product Launch Expert?!"
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/hines-ward-nfl-player-pittsburgh-steeler-inte
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/8-truly-awful-landing-pages-you-wont-believe
+    "@_rails_html_safe": false
+  published: 2011-02-11 01:22:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p>Well-known companies have deep pockets. Thus, they can afford top-notch advertising agencies that know what they're doing.</p>\n\
+      <p>So it's wise for one to imitate the marketing of these well-known companies, right?</p>\n\
+      <p>Not quite.</p>\n\
+      <p>As an experiment, we spent a significant amount of time pouring through landing pages from well-known brands and analyzing their landing pages. We found a shocking amount of these well-known brands to stray away from critical landing page fundamentals. In brief, a landing page should: clearly communicate something enticing, provide credibility, and have a <strong>clear</strong> call to action (<a href=\"http://blog.kajabi.com/the-3-part-landing-page-formula-that-always-w\" target=\"_blank\">more about landing page funadmentals here</a>).</p>\n\
+      <p>In this piece, we'll take a look at 7 truly awful landing pages. We'll then outline areas where the landing page falls short. And finally, we'll offer an example of a landing page that one should model.</p>\n\
+      <p>So let's get started.</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">1. USC Marshall's Executive Education Landing Page</span></strong></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-02-10/HnFpoGvIvewEGfruaqeAjytIkljccetewizGbsFcwubssIclvslcFHJkHAFH/Screen_shot_2011-02-10_at_2.26.23_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_2\" height=\"326\" src=\"http://getfile4.posterous.com/getfile/files.posterous.com/temp-2011-02-10/HnFpoGvIvewEGfruaqeAjytIkljccetewizGbsFcwubssIclvslcFHJkHAFH/Screen_shot_2011-02-10_at_2.26.23_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <strong>Feedback</strong>:</p>\n\
+      <p>First, yes, this is a landing page that USC pays Google to send users to (and yes I'm dead-serious).&nbsp;</p>\n\
+      <p>As a rule of thumb, don't send people to a page that overwhelms the user with links (unless it's a specific type of e-commerce site, which we'll outline below).</p>\n\
+      <p>Second, this page needs to <strong>sell</strong> a prospective executive education student. It should convince one that it's worth investing money in an executive education. It should use benefits like \"a higher paying salary,\" or \"more career advancement.\" Instead, this page assumes that the visitor has already sold themselves. Even if that were the case, this landing page would sell the user out of their decision. There's no benefits outlined and no gripping headlines. There's no message that somehow investing in education will result in you being a happier person.</p>\n\
+      <p>Third, there's no clear call to action. Unless you call that box on the right a call to action. There needs to be a painfully clear button that says \"Click me, I will make your life better!\"</p>\n\
+      <p>Fourth, there's no third party proof or form of credibility other than the USC brand name. USC's business school is a top 25 program. Why not mention that on this page? How bout including a quote from a publication about how amazing the school is?</p>\n\
+      <p><strong>Example of a good landing page:</strong></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-10/drwgbeDrxazwBAqknyxsmbkpoonHsxeldsxgEhgpcqnDHdyzHtGrpDcevsen/Screen_shot_2011-02-10_at_2.28.01_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_2\" height=\"408\" src=\"http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-02-10/drwgbeDrxazwBAqknyxsmbkpoonHsxeldsxgEhgpcqnDHdyzHtGrpDcevsen/Screen_shot_2011-02-10_at_2.28.01_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      This landing page displays a picture of a mom and her daughter smiling. It looks genuine, homely and appears like they are happy. Whether you're a male or female, this picture will make you feel good.</p>\n\
+      <p>If you're a male, this communicates that your loved ones will be happy if you invest in your education.</p>\n\
+      <p>If you're a female, it communicates that you and your daughter will be happier by investing in your education.</p>\n\
+      <p>Those who are exploring online education typically have negative factors in their lives. Poor finances or a bad past experience with school may be on their mind when visiting a website based on higher education. The user internally wants warmth, acceptance and happiness in some form (which is why he or she may be going back to school in the first place). This landing page communicates that instantly through a picture.</p>\n\
+      <p>Additionally, the landing page displays a sense of credibility in the bottom left.</p>\n\
+      <p>In the top right, the call to action is placed which is an interactive step-by-step process. <strong>&nbsp;</strong></p>\n\
+      <p><strong>Note: this piece is important!</strong></p>\n\
+      <p>The call to action is a process. It's a step-by-step wizard that displays a \"completion\" bar at the top. Those who exploring online education may have tried higher education or taken courses in college, but never were able to complete it. For the rest of their lives this experience has lived in the back of their mind. The need for completion pains them every day. So much so that seeing that completion bar at only 10% will annoy them and lead them to get the bar to 100%.</p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"font-size: x-large;\">2. Tazo Tea Landing Page: Don't Do Flash!</span></strong></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-10/sEzJiBxvfnygFrvqoxusjsfaoxHEBDaIhGstxwldcjCJuhkxFwcwkcrxmsHa/Screen_shot_2011-02-10_at_11.27.33_AM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_11\" height=\"231\" src=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-10/sEzJiBxvfnygFrvqoxusjsfaoxHEBDaIhGstxwldcjCJuhkxFwcwkcrxmsHa/Screen_shot_2011-02-10_at_11.27.33_AM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>Feedback</strong>:</p>\n\
+      <p>This lesson is pretty simple. DON'T DO FLASH.</p>\n\
+      <p>Flash serves as a neat language, but its coolness factor wears off when you're paying money to send people to a broken page. For whatever reason, many people still don't have flash enabled and for those who do, there's a significant chance any pop-up in flash will be blocked by one's web browser.</p>\n\
+      <p><strong>Example of a good landing page:</strong></p>\n\
+      <p>Instead of a sophistaced flash website, try something simple but actionable:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile4.posterous.com/getfile/files.posterous.com/temp-2011-02-10/sttaBymxDhgaCfIpsilywbfFhbxfihjoGzutklwGEeAotzzDajBzvfAtHyCj/Screen_shot_2011-02-10_at_2.21.13_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_2\" height=\"263\" src=\"http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-02-10/sttaBymxDhgaCfIpsilywbfFhbxfihjoGzutklwGEeAotzzDajBzvfAtHyCj/Screen_shot_2011-02-10_at_2.21.13_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>The above landing page serves as a good example because the color \"pops\" and there's a noticable contrast between the rest of the website and the call to action button.</p>\n\
+      <p>Take note of the call to action button in the above picture, and never forget the importance of making your call to action button stand out. In fact, as a general rule of thumb, make sure your call to action button is unique from every main color on your website.</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>3. Mercedes Benz Dealer: Confusing and Blended</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile7.posterous.com/getfile/files.posterous.com/temp-2011-02-10/IecFpcFacHEwvAwJJwzknnbipBofseBlwylEyCgebmsDjjfJamwInrHGtzai/Screen_shot_2011-02-10_at_2.30.51_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_2\" height=\"416\" src=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-10/IecFpcFacHEwvAwJJwzknnbipBofseBlwylEyCgebmsDjjfJamwInrHGtzai/Screen_shot_2011-02-10_at_2.30.51_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <strong>Feedback</strong>:</p>\n\
+      <p>If you're a local car dealer, you have one objective: get local people to your dealership.</p>\n\
+      <p>Your landing page doesn't necessarily need to <strong>\"sell.\"</strong> That's what car salesmen are for.&nbsp; Sometimes the goal of your landing page is to get them in front of a salesemen. Thus, instead of selling, you must excite the vistior and establish the need to visit your store. Finally, you must communicate your location and how to get there in a straight-forward manner.</p>\n\
+      <p>Instead of the website above, there should be a massive image selling the sexiness and style of owning a Mercedes. With this, there should be a nifty headline written in trendy font that reads something like, \"We're not saying your life will change. Everyone else is.\" Top that off with a young couple driving with the top-down and you've created sizzle. You've created excitement.</p>\n\
+      <p>To the right, you should then display a google map of your location with a link to \"Get directions\" and then finally a \"Hurry, we're almost sold out of our new [x] model!\"</p>\n\
+      <p><strong>Example of a good landing page:</strong></p>\n\
+      <p><strong><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-02-10/myhwEaApFxuGrAFBEbmsJACgcrrtsCFwqsnAgzFumjtmnbjDkmbooouIHtuH/Screen_shot_2011-02-10_at_11.41.34_AM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_11\" height=\"362\" src=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-10/myhwEaApFxuGrAFBEbmsJACgcrrtsCFwqsnAgzFumjtmnbjDkmbooouIHtuH/Screen_shot_2011-02-10_at_11.41.34_AM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      <br /></strong></p>\n\
+      <p>Even though this landing page isn't a local dealership, there are two elements that stick out on this page:</p>\n\
+      <p>First, it features the ability to customize your car (which increases engagement and time spent on your site).</p>\n\
+      <p>Time spent on the site increases the chance of one conversing about the car. You see, what typically what happens with this landing page is that the visitor will end up spending 30-45 minutes building a neat looking car. With this type of vehicle, the advertiser is trying to target the mom of the household, or an adult with a spouse and family. If the person is at home, a certain period of time will pass which increases the chances of a loved one meandering over to his or her spouse and remarking upon the car they're customizing. What the advertiser does is something much more impressive and valuable than just showing the visitor a video. The advertiser has created an engaging activity that results in the visitor talking with his or her spouse about the car.</p>\n\
+      <p>This type of engagement results in a conversion rate one can't necessarily measure immediately, but for car sites, instant conversion rate isn't the goal. The goal with selling a car is twofold: One, you need to get the person to visualize him or herself driving the car, and second, you need to get the partner on board. And engaging landing page accomplishes both of these.</p>\n\
+      <p>The second call to action on the landing page above centers on getting the visitor to a local dealer.</p>\n\
+      <p>Though it's advisable to only have one goal per landing page, the first call to action really serves as a form of engagement that increases the likelihood of clicking the second call to action (which is to find a local dealership).</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>4. Windows Phone 7: Close, but no cigar</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-10/IqofACFmreuqmpsvfHbegquJxfGGojldBwvjhbvBfCazyhJwbIiljfFHuIaj/Screen_shot_2011-02-10_at_2.23.17_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_2\" height=\"365\" src=\"http://getfile5.posterous.com/getfile/files.posterous.com/temp-2011-02-10/IqofACFmreuqmpsvfHbegquJxfGGojldBwvjhbvBfCazyhJwbIiljfFHuIaj/Screen_shot_2011-02-10_at_2.23.17_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>Feedback:</strong></p>\n\
+      <p>While not god-awful, this landing page is awfully close.</p>\n\
+      <p>It's missing a strong headline, which given the position of Windows Phone in the marketplace currently, they need to come out with something bold and powerful. Something that turns heads. The verb \"Discover\" is profoundly over-used, vague and simply ineffective.</p>\n\
+      <p>Additionally, the Call to Action is hard to locate.</p>\n\
+      <p>Last, there's too much text.</p>\n\
+      <p>People don't want to exert effort in getting sold. Reading online takes effort. Instead of reading, people want to be hand-held through an experience.</p>\n\
+      <p>Images, pictures, sound, animation leads to entertainment.</p>\n\
+      <p>Entertainment leads to amusement.</p>\n\
+      <p>Amusement leads to happiness.</p>\n\
+      <p>And people buy happiness. Ask Disney.</p>\n\
+      <p><strong>Example of a good landing page:</strong></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-02-10/syFHkifgAwtIadEDEkyItoqjDopzyDgIyqkubjvgodAufyrvfeaBwtajhkAH/Screen_shot_2011-02-10_at_11.59.53_AM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_11\" height=\"430\" src=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-10/syFHkifgAwtIadEDEkyItoqjDopzyDgIyqkubjvgodAufyrvfeaBwtajhkAH/Screen_shot_2011-02-10_at_11.59.53_AM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      When in doubt, go with simplicity.</p>\n\
+      <p>The headline, \"Pure Google\" while a little vague, is catchy and has attitude. It's bold. The fact that there's little text trying to \"sell\" you on features gives off the feeling that this phone is established. It's legit.</p>\n\
+      <p>Additionally, this page has two call to actions that stick out. And to top it off they have a link to watch a video (remember people don't want to work, they want to be entertained).</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>5. Bank of America: Two goals = no goals</strong></span></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-02-10/zrmcJufrsphlfxpofpwkqroFtknHuzkydrCxqcBAzlcnIxFDxbbsoCjaaDlg/Screen_shot_2011-02-10_at_11.31.32_AM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_11\" height=\"410\" src=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-10/zrmcJufrsphlfxpofpwkqroFtknHuzkydrCxqcBAzlcnIxFDxbbsoCjaaDlg/Screen_shot_2011-02-10_at_11.31.32_AM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>Bank of America executes two big \"No-No's\" with world-class precision:</p>\n\
+      <p><strong>A) Big No-No Number One: </strong>Your landing page should have one goal, not two. This landing page offers a ton of text and caps it off by making the visitor <em>think</em>. The last thing your landing page should do is make your visitor think; instead, it should make them interact, feel an experience and take action.</p>\n\
+      <p><strong>B) Big No-No Number Two: </strong>Don't bring up something about your service that the human world (and likely the spiritual world) strongly detest. In the world of banks, things that people don't like are \"fees.\" On BofA's landing page, they bring up fee's not once, but twice. Ouch.</p>\n\
+      <p><strong>Example of a good landing page:</strong></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile4.posterous.com/getfile/files.posterous.com/temp-2011-02-10/qeuuhrEGaGFvukHCjxJFshhtHdCsyyqhwEFlcpqHvltjmglgrraFnshlEteC/Screen_shot_2011-02-10_at_11.32.35_AM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_11\" height=\"488\" src=\"http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-02-10/qeuuhrEGaGFvukHCjxJFshhtHdCsyyqhwEFlcpqHvltjmglgrraFnshlEteC/Screen_shot_2011-02-10_at_11.32.35_AM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      Chase Bank executes the basics very well. They have two clear headlines that tell you, (i) what to do (the top one), and (ii) why you should do what they tell you to do (the secondary headline).</p>\n\
+      <p>In addition, Chase offers a limited time $100 cash bonus for opening an account.</p>\n\
+      <p>They also have one call to action button that is disguised as two. The goal for Chase Bank is for you to open up an account. Whether you do that immediately, or choose to have the coupon emailed to you and then do so, you're taking action and starting the process no matter what button you click. The button on the left adds the feeling of \"security\" with the lock icon. The one on the right gives the sense that you're getting an exclusive coupon (they're giving you value, thus you should give them your email).&nbsp;</p>\n\
+      <p>Finally, they display the badge of credibility with \"FDIC\" placed in the bottom left corner.</p>\n\
+      <p><span style=\"font-size: x-large;\"><strong>6: Windows 7 Landing Page = Nothing</strong></span></p>\n\
+      <p>Not to bag on Microsoft in this post, but if you use the latest version of Firefox, you'll find nothing on the Windows 7 landing page.</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile7.posterous.com/getfile/files.posterous.com/temp-2011-02-10/szGmbnrmkbFsGJllvxyxtnzEmErHdtypJriGyDJxElFjBybpisHrzJfGfjoz/Screen_shot_2011-02-10_at_11.36.04_AM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_11\" height=\"322\" src=\"http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-02-10/szGmbnrmkbFsGJllvxyxtnzEmErHdtypJriGyDJxElFjBybpisHrzJfGfjoz/Screen_shot_2011-02-10_at_11.36.04_AM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>Feedback</strong>:</p>\n\
+      <p>Make sure your landing page contains content.</p>\n\
+      <p><strong>Example of a good landing page:</strong></p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-10/ltfjfodEfDcpGJbafwigrgemJzDIphHhmvdzsEiDCikvqynxcvimoDHpthum/Screen_shot_2011-02-10_at_2.25.22_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_2\" height=\"431\" src=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-10/ltfjfodEfDcpGJbafwigrgemJzDIphHhmvdzsEiDCikvqynxcvimoDHpthum/Screen_shot_2011-02-10_at_2.25.22_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      This landing page is brief, concise and powerful. It's image-rich and bold.</p>\n\
+      <p>The call to action sticks out in the top right (in blue).</p>\n\
+      <p>Additionally, the sub-headline is descriptive and enticing.</p>\n\
+      <p><span style=\"color: #ff0000;\"><strong>If you leave with only one take-away from this post, then let it be this: \"Simplicity sells.\"</strong></span></p>\n\
+      <p><span style=\"font-size: x-large;\"><strong><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">7. Rosetta stone = burnt eyeballs and two goals</span></span></strong></span></p>\n\
+      <p><span style=\"color: #ff0000;\"><span style=\"color: #000000;\"><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-02-10/eJeCvqhliohhqiIAwowBvmnGhfDxamanEbDcjsyHgAnBuogpvEcopJojzusI/Screen_shot_2011-02-10_at_12.00.26_PM.png.scaled1000.png\"><img alt=\"Screen_shot_2011-02-10_at_12\" height=\"343\" src=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-10/eJeCvqhliohhqiIAwowBvmnGhfDxamanEbDcjsyHgAnBuogpvEcopJojzusI/Screen_shot_2011-02-10_at_12.00.26_PM.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      </span></span></p>\n\
+      <p><strong>Feedback:</strong></p>\n\
+      <p><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">It's OK to use the color of your brand on your sales page, but not at the expense of burning your visitors' eyeballs out of their heads. A bright yellow background on a website miraculously accomplishes this effect. <br /></span></span></p>\n\
+      <p>As a general rule of thumb, aim for a background that gives off the feeling of calmness and smoothness--like blue or light green.</p>\n\
+      <p><strong>Example of a good landing page:</strong></p>\n\
+      <p>As a parting bonus, we decided to mock up how we'd redesign Rosetta Stone's landing page:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile7.posterous.com/getfile/files.posterous.com/temp-2011-02-10/qgcBHqvFbIjqbApvdpwBspfCyCdnlhscckJFtAlajjBzonyHvexyuacoxAlz/rosetta-redesign.png.scaled1000.png\"><img alt=\"Rosetta-redesign\" height=\"448\" src=\"http://getfile5.posterous.com/getfile/files.posterous.com/temp-2011-02-10/qgcBHqvFbIjqbApvdpwBspfCyCdnlhscckJFtAlajjBzonyHvexyuacoxAlz/rosetta-redesign.png.scaled600.png\" width=\"600\" /></a>\n\
+      </div>\n\
+      Notice in this redesign that we have a calmer background (one that doesn't make you cry tears of blood). Additionally, it includes just one call to action (email submit) and it's a personalized call to action (choose your language).</p>\n\
+      <p><strong>In closing</strong></p>\n\
+      <p>In closing we hope you've learned something from this experiment. Let us know if you come across any other truly awful landing pages by big-named brands. Best of luck, and stick to the fundamentals!</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/8-truly-awful-landing-pages-you-wont-believe\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/8-truly-awful-landing-pages-you-wont-believe#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: 7 Truly Awful Landing Pages You Won't Believe are From Well-known Brands
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/8-truly-awful-landing-pages-you-wont-believe
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/demystifying-the-perpetual-product-launch-vid
+    "@_rails_html_safe": false
+  published: 2011-02-09 19:49:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Funnel-diagram-perpetual\" height=\"218\" src=\"http://getfile1.posterous.com/getfile/files.posterous.com/temp-2011-02-09/rCsbhJmlujdJqCuygtiylddfvrsGyeelDsgJqrzAupqaxwqogyjJBGDhqquo/funnel-diagram-perpetual.jpg.scaled600.jpg\" width=\"536\" />\n\
+      </div>\n\
+      </p>\n\
+      <p>The Product Launch Formula is one in which you, capture one's email address, give away free content, and present them with your sales page. This formula typically unravels itself over 1-2 weeks. During this process, a handful of other marketers blast their email list touting how great the product is (which creates some third party social proof).</p>\n\
+      <p>This sequence or \"formula\" has proven itself as a great way of selling products online. Though the internet has afixed itself as a more normal means of transacting business and delivering value, skepticism still rears its head in the minds of many consumers.&nbsp; Because the product launch formula gives away free content over time (building affinity), and has other marketers backing the product through email, skepticism begins to fade by the time one lands on the sales page.</p>\n\
+      <p><strong><span style=\"text-decoration: underline;\">So why doesn't everyone conduct a product launch every day</span>?</strong> If this works, why do most \"guru\" marketers conduct only a few product launches per year?</p>\n\
+      <p><strong><span style=\"text-decoration: underline;\">Scarcity is one reason</span></strong>. Giving away a product once per year is the perfect tool for converting those who are on the fence. But mainly, people only do a few launches per year because of two factors: (i) people, and (ii) time.&nbsp;</p>\n\
+      <p><strong><span style=\"text-decoration: underline;\">Traditional product launches take time</span></strong>. It also rquires management and coordination with people (affiliates/JV Partners).&nbsp; Because of these two elements, many marketers only do a few \"product launches\" per year.</p>\n\
+      <p>But what if the product you're selling isn't priced so aggressively that it requires third party proof in the form of affiliates?</p>\n\
+      <p><strong><span style=\"text-decoration: underline;\">But what if you could automate the entire product launch process</span>?</strong> What if you could take people every day through an automated product launch without lifting a finger? Is this even possible?</p>\n\
+      <p>Yes, it's called a <strong><span style=\"text-decoration: underline;\">Perpetual Product Launch</span></strong>.</p>\n\
+      <p>In this video we'll reveal the nature of Perpetual Product Launches and how to create them in the push of a button. <strong>Literally</strong>.</p>\n\
+      <p style=\"text-align: left;\"><strong>Enjoy this video!</strong></p>\n\
+      <p><div class='p_embed p_video_embed'>\n\
+      <a href=\"http://blog.kajabi.com/demystifying-the-perpetual-product-launch-vid\"><img alt=\"\" src=\"http://getfile4.posterous.com/getfile/video.posterous.com/temp-2011-02-09/EyfiCgfpDnntfDCfzdnsBkJyirnzGHdqwtnnAmyjCsFfpJgrAqctdfDzIgzj/frame_0000.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>the-perpetual-launch.mp4</strong>\n\
+      <a href=\"http://blog.kajabi.com/demystifying-the-perpetual-product-launch-vid\">Watch on Posterous</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><strong>Here's the PDF:</strong></p>\n\
+      <p><div class='p_embed p_file_embed'>\n\
+      <a href=\"http://blog.kajabi.com/demystifying-the-perpetual-product-launch-vid\"><img alt=\"\" src=\"http://posterous.com/images/filetypes/pdf.png\" /></a>\n\
+      <div class='p_embed_description'>\n\
+      <strong>Kajabi-Perpetual-Launch.pdf</strong>\n\
+      <a href=\"http://getfile1.posterous.com/getfile/files.posterous.com/temp-2011-02-10/qixczwiadhoCIfBDHzAGJkqlcjwwEffHoDamtojhIzmJhrAcizdGEogtbEna/Kajabi-Perpetual-Launch.pdf\">Download this file</a>\n\
+      </div>\n\
+      </div>\n\
+      </p>\n\
+      <p><a href=\"http://kajabiapp.com?ppl\"><div class='p_embed p_image_embed'>\n\
+      <img alt=\"Kajabisignup\" height=\"149\" src=\"http://getfile9.posterous.com/getfile/files.posterous.com/temp-2011-02-10/qnvktCnozFeBDhoDfjrIslpufwAFzChgAhreiHgcdJAAoflxEkuFavikEott/kajabisignup.jpg.scaled600.jpg\" width=\"536\" />\n\
+      </div>\n\
+      </a></p>\n\
+      <p>&nbsp;</p>\n\
+      <p><strong><span style=\"text-decoration: underline;\">Leave a comment below and let us know what you thought</span>!</strong> We're here reading your comments &amp; questions, and replying back (scroll down to read all our responses!), talk with you soon! :)</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/demystifying-the-perpetual-product-launch-vid\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/demystifying-the-perpetual-product-launch-vid#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: Demystifying The "Perpetual Product Launch" (Video)
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/demystifying-the-perpetual-product-launch-vid
+    "@_rails_html_safe": false
+- !ruby/object:Feedzirra::Parser::RSSEntry 
+  entry_id: !str 
+    str: http://blog.kajabi.com/some-free-kajabi-swag
+    "@_rails_html_safe": false
+  published: 2011-02-08 22:20:00 Z
+  summary: !str 
+    str: "\n        <p>\n\
+      \t<p>Kajabi Friends,</p>\n\
+      <p>Here's some Free Kajabi Desktop Wallpaper!</p>\n\
+      <p>Kajabi Metal Background:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile3.posterous.com/getfile/files.posterous.com/temp-2011-02-08/uzspvsoaohjDvrFgxmkErrAGInGxAszrIoBqnFhdldFdoxqFDlfwowsgnfED/Kajabe-metal.jpg.scaled1000.jpg\"><img alt=\"Kajabe-metal\" height=\"375\" src=\"http://getfile4.posterous.com/getfile/files.posterous.com/temp-2011-02-08/uzspvsoaohjDvrFgxmkErrAGInGxAszrIoBqnFhdldFdoxqFDlfwowsgnfED/Kajabe-metal.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      Grunge Stripe Kajabi:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-08/alhIrEhxcbkDJHxdyhEvHBvpDjiqbalEyqczwkhgptedBoIdeknpqEGdinxb/stripes.jpg.scaled1000.jpg\"><img alt=\"Stripes\" height=\"375\" src=\"http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-02-08/alhIrEhxcbkDJHxdyhEvHBvpDjiqbalEyqczwkhgptedBoIdeknpqEGdinxb/stripes.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      Mesh Metal Back Tiled Kajabi:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile8.posterous.com/getfile/files.posterous.com/temp-2011-02-08/EApylyjCtthywkdfvjGFthgdlbfyjhCzpyIlwscqFavIjIpsFFnbsyltshbj/mesh-metal-back-tiled.jpg.scaled1000.jpg\"><img alt=\"Mesh-metal-back-tiled\" height=\"338\" src=\"http://getfile1.posterous.com/getfile/files.posterous.com/temp-2011-02-08/EApylyjCtthywkdfvjGFthgdlbfyjhCzpyIlwscqFavIjIpsFFnbsyltshbj/mesh-metal-back-tiled.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      Dark Background (Kajabi Korner!)</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-02-08/atsitGwsoqGvxdzEpulBmCClGGjGEwHBgeyqhamtzGGduFrcyHlAhdicljmh/dark-back-corner.jpg.scaled1000.jpg\"><img alt=\"Dark-back-corner\" height=\"338\" src=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-08/atsitGwsoqGvxdzEpulBmCClGGjGEwHBgeyqhamtzGGduFrcyHlAhdicljmh/dark-back-corner.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      Dark Tiled:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-08/ADggjlJueifwkAwGEumdrsnFjnrmEFCpqbhfvqCFmtfgwbkbswlJFFCutjCe/dark-back-tiled.jpg.scaled1000.jpg\"><img alt=\"Dark-back-tiled\" height=\"338\" src=\"http://getfile7.posterous.com/getfile/files.posterous.com/temp-2011-02-08/ADggjlJueifwkAwGEumdrsnFjnrmEFCpqbhfvqCFmtfgwbkbswlJFFCutjCe/dark-back-tiled.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      Mesh Metal Dark:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile0.posterous.com/getfile/files.posterous.com/temp-2011-02-08/CIaxBmdccutFqwxabtiosAHrEEwBomflFtbFjuGlnGeynFkkEeBJuufgjbnl/mesh-metal-dark.jpg.scaled1000.jpg\"><img alt=\"Mesh-metal-dark\" height=\"338\" src=\"http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-02-08/CIaxBmdccutFqwxabtiosAHrEEwBomflFtbFjuGlnGeynFkkEeBJuufgjbnl/mesh-metal-dark.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>Blue Tiled:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile4.posterous.com/getfile/files.posterous.com/temp-2011-02-08/imqEhpsIgBqjGcEFxyzpntcjkkamwpnppaBHDwFxydGfCrrFmuepdaFazIat/blu-tiled.jpg.scaled1000.jpg\"><img alt=\"Blu-tiled\" height=\"338\" src=\"http://getfile5.posterous.com/getfile/files.posterous.com/temp-2011-02-08/imqEhpsIgBqjGcEFxyzpntcjkkamwpnppaBHDwFxydGfCrrFmuepdaFazIat/blu-tiled.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>Stamp:</p>\n\
+      <p><div class='p_embed p_image_embed'>\n\
+      <a href=\"http://getfile2.posterous.com/getfile/files.posterous.com/temp-2011-02-09/HzHEgqClozIJzFeuvxCvnIjngaHnzfCqDkaeaCzoIIiItvjeiAeuplnyepnu/stamp.jpg.scaled1000.jpg\"><img alt=\"Stamp\" height=\"375\" src=\"http://getfile6.posterous.com/getfile/files.posterous.com/temp-2011-02-09/HzHEgqClozIJzFeuvxCvnIjngaHnzfCqDkaeaCzoIIiItvjeiAeuplnyepnu/stamp.jpg.scaled600.jpg\" width=\"600\" /></a>\n\
+      </div>\n\
+      </p>\n\
+      <p>&nbsp;</p>\n\
+      <p>Enjoy!</p>\n\
+      \t\n\
+      </p>\n\n\
+      <p><a href=\"http://blog.kajabi.com/some-free-kajabi-swag\">Permalink</a> \n\n\
+      \t| <a href=\"http://blog.kajabi.com/some-free-kajabi-swag#comment\">Leave a comment&nbsp;&nbsp;&raquo;</a>\n\n\
+      </p>\n      "
+    "@_rails_html_safe": false
+  title: !str 
+    str: Some Free Kajabi Swag!
+    "@_rails_html_safe": false
+  url: !str 
+    str: http://blog.kajabi.com/some-free-kajabi-swag
+    "@_rails_html_safe": false
+etag: "\"9d72ed86beb78d9d48e99f7cf36fc36f\""
+feed_url: http://blog.kajabi.com/rss.xml
+last_modified: 
+title: !str 
+  str: Kajabi
+  "@_rails_html_safe": false
+url: !str 
+  str: http://blog.kajabi.com
+  "@_rails_html_safe": false
+
